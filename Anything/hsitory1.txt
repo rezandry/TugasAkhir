@@ -1,0 +1,121 @@
+# -*- coding: utf-8 -*-
+# *** Spyder Python Console History Log ***
+
+##---(Thu Dec 01 19:32:00 2016)---
+runfile('C:/Users/rezaandriyunanto/.spyder2/temp.py', wdir='C:/Users/rezaandriyunanto/.spyder2')
+
+##---(Thu Feb 16 15:42:25 2017)---
+print 3+*
+print 3+9
+debugfile('C:/Users/rezaandriyunanto/.spyder2/temp.py', wdir='C:/Users/rezaandriyunanto/.spyder2')
+runfile('C:/Users/rezaandriyunanto/.spyder2/temp.py', wdir='C:/Users/rezaandriyunanto/.spyder2')
+import os
+os.chdir
+os.chdir()
+os.getcwd()
+os.chdir('C:\\Users\\rezaandriyunanto\\Python')
+os.getcwd()
+import csv
+with open('vehicle.csv', 'rb') as csvfile:...     spamreader = csv.reader(csvfile, delimiter=' ', quotechar='|')...     for row in spamreader:...         print ', '.join(row)
+with open('vehicles.csv', 'rb') as csvfile:...     spamreader = csv.reader(csvfile, delimiter=' ', quotechar='|')...     for row in spamreader:...         print ', '.join(row)
+with open('vehicles.csv', 'rb') as csvfile:...     spamreader = csv.reader(csvfile, delimiter=',', quotechar='|')...     for row in spamreader:...         print ', '.join(row)
+print row
+print row[1]
+with open('vehicles.csv', 'rb') as csvfile:...     spamreader = csv.reader(csvfile, delimiter=',')...     for row in spamreader:...         print ', '.join(row)
+print row[1]
+print row[0]
+print row[2]
+print row[2][1]
+with open('vehicles.csv', 'rb') as csvfile:...     spamreader = csv.reader(csvfile, delimiter=',')...     for row in spamreader:...         print ', '.row
+with open('vehicles.csv', 'rb') as csvfile:...     spamreader = csv.reader(csvfile, delimiter=',')...     for row in spamreader:...         print ', '.join(row)
+print row[1]
+with open('test.csv', 'rb') as csvfile:...     spamreader = csv.reader(csvfile, delimiter=',')...     for row in spamreader:...         print ', '.join(row)
+with open('test.csv', 'rb') as csvfile:...     spamreader = csv.reader(csvfile, delimiter=',')...     for row in spamreader:...         print ', '.join(row)            row[0]+1
+print row[0]
+print row[0]+1
+import pandas
+df=pandas.read_csv("test.csv",converters={"a1":int})
+print df[0]
+with open('test.csv', 'rb') as csvfile:...     spamreader = csv.reader(csvfile, delimiter=',')...     for row in spamreader:...         print ', '.join(row)
+print row[0]
+x = row[0].astype("int")
+x=int(row[0])
+print x+1
+with open('test.csv', 'rb') as csvfile:...     spamreader = csv.reader(csvfile, delimiter=',')...     for row in spamreader:...         print ', '.join(row)
+with open('test.csv', 'rb') as csvfile:...     spamreader = csv.reader(csvfile, delimiter=',')...     for row in spamreader:...         print ', '.join(row)            x = int(row)
+with open('test.csv', 'rb') as csvfile:...     spamreader = csv.reader(csvfile, delimiter=',')...     for row in spamreader:...         print ', '.join(row)            int(row)
+str_lst = ['1', '2', '3']
+int_lst = [int(x) for x in str_lst]
+print int_lst
+int_lst[0]+2
+str_lst+3
+import csv
+with open('result.csv','rb') as f:    reader = csv.reader(f,delimiter=',')
+with open('result.csv','rb') as f:    reader = csv.reader(f,delimiter=',')    rows = list(reader)
+print('The csv file had {} rows'.format(len(rows)))
+print rows
+
+##---(Thu Feb 16 21:01:59 2017)---
+import csvwith open('result.csv', 'rb') as f:    reader = csv.reader(f, delimiter=',')    rows = list(reader)
+import os
+os.getcwd()
+os.chdir('C:\\Users\\rezaandriyunanto\\Python')
+os.getcwd()
+import csvwith open('result.csv', 'rb') as f:    reader = csv.reader(f, delimiter=',')    rows = list(reader)
+for row in rows:    print row
+os.getcwd()
+import csvwith open('result.csv', 'rb') as f:    reader = csv.reader(f, delimiter=',')    rows = list(reader)
+import csvwith open('result.csv', 'rb') as f:    reader = csv.reader(f, delimiter=',')    rows = list(reader)    rows_lst = [int(x) for x in rows]
+import csvwith open('result.csv', 'rb') as f:    reader = csv.reader(f, delimiter=',')    rows = list(reader)
+int_lst = [int(x) for x in rows]
+for row in rows:    int_lst = int(row)
+for row in rows:    int_lst = int(rows)
+with open('result.csv', 'rb') as csvfile:...     spamreader = csv.reader(csvfile, delimiter=' ', quotechar='|')...     for row in spamreader:...         x = ', '.join(row)
+print x
+x[1]
+x[0]
+x
+row[0]
+row[1]
+with open('result.csv', 'rb') as csvfile:...     spamreader = csv.reader(csvfile, delimiter=' ', quotechar='|')...     for row in spamreader:...         print ', '.join(row)
+row
+row[1]
+print row[1]
+print row[0]
+print row[0][1]
+x = int[row[0]]
+x = int(row[0])
+for x in row:    print int(row[0])
+for x in row:    print int(x)
+with open('result.csv', 'rb') as csvfile:...     spamreader = csv.reader(csvfile, delimiter=' ', quotechar='|')...     for row in spamreader:...         int_lst = [int(x) for x in row]
+with open('result.csv', 'rb') as csvfile:...     spamreader = csv.reader(csvfile, delimiter=' ', quotechar='|')...     for row in spamreader:...         int_lst = [int(x) for x in join(row)]
+import csv
+import csvwith open('result.csv', 'rb') as f:    reader = csv.reader(f)    rows = [row for row in reader if row[1] > `s`]for index, cols in enumerate(rows[1:], 1):  # Skip the header row    rows[index][1] = int(cols[1])print rows
+import csvwith open('result.csv', 'rb') as f:    reader = csv.reader(f)    rows = [row for row in reader if row[1] > 1]for index, cols in enumerate(rows[1:], 1):  # Skip the header row    rows[index][1] = int(cols[1])print rows
+
+##---(Thu Feb 16 22:39:52 2017)---
+import os
+os.getcwd()
+import os
+os.getcwd()
+import csv
+csv.reader('result.csv','rb')
+import pandas as pd
+import numpy as np
+df = pd.read_csv('result.csv')
+df
+df = pd.read_csv('../data/example.csv', names=['1', '2', '3', '4', '5', '6' , '7' ,'8' ,'9' ,])
+df = pd.read_csv('result.csv', names=['1', '2', '3', '4', '5', '6' , '7' ,'8' ,'9' ,])
+df
+df = pd.read_csv('../data/example.csv', names=['1', '2', '3', '4', '5', '6' , '7' ,'8'])
+df = pd.read_csv('result.csv', names=['1', '2', '3', '4', '5', '6' , '7' ,'8'])
+df
+df = pd.read_csv('result.csv', names=['1', '2', '3', '4', '5', '6' , '7' ,'8','9'])
+df
+df[0]
+df.loc[0,1]
+df.loc[0,'1']
+df
+df.loc[13053,'1']
+df.loc[13052,'1']
+df.loc[13052,'1']+df.loc[13053,'1']

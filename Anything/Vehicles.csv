@@ -1,0 +1,401 @@
+Automobile ID,Fuel ID,Fuel Configuration ID,Manufacturer ID,Weight Class ID,Category ID,Model,Model Year,City Range,Highway Range,City Fuel Economy,City Fuel Economy Units,Highway Fuel Economy,Highway Fuel Economy Units,City Gas Fuel Economy,Highway Gas Fuel Economy,Transmission Type,Engine Type,Engine Size,Engine Cylinder Count,Engine Description,Battery Type,Battery Voltage Amps,110v Charge Time,220v Charge Time,Warranty Info,Ordering Info,Description,Comments,Manufacturer,Manufacturer URL,Fuel Code,Fuel,Category,Fuel Configuration Name
+11329,57,3,377,"",27,A3 e-tron,2015,"","","","","","","","",Auto,"",1.4,4,"1.4L I4, 75 kW electric drive","","","","","","","",31 mi est. all electric range,Audi,http://progress.audiusa.com/,PHEV,Plug-in Hybrid Electric,Sedan/Wagon,Dual/Bi-Fueled
+11392,11,5,377,"",27,A4 Quattro,2015,"","",15.0,mpg,22.0,mpg,22.0,31.0,Auto,SI,2.0,4,2.0L I4,"","","","","","","","",Audi,http://progress.audiusa.com/,E85_GSLN,Ethanol (E85),Sedan/Wagon,Flexible Fuel
+11394,11,5,377,"",27,A5 Cabriolet Quattro,2015,"","",15.0,mpg,21.0,mpg,20.0,28.0,Auto,SI,2.0,4,2.0L I4,"","","","","","","","",Audi,http://progress.audiusa.com/,E85_GSLN,Ethanol (E85),Sedan/Wagon,Flexible Fuel
+11393,11,5,377,"",27,A5 Quattro,2015,"","",15.0,mpg,22.0,mpg,22.0,31.0,Auto,SI,2.0,4,2.0L I4,"","","","","","","","",Audi,http://progress.audiusa.com/,E85_GSLN,Ethanol (E85),Sedan/Wagon,Flexible Fuel
+11395,11,5,377,"",27,Allroad Quattro,2015,"","",15.0,mpg,21.0,mpg,21.0,28.0,Auto,SI,2.0,4,2.0L I4,"","","","","","","","",Audi,http://progress.audiusa.com/,E85_GSLN,Ethanol (E85),Sedan/Wagon,Flexible Fuel
+11396,11,5,377,"",29,Q5 AWD,2015,"","",14.0,mpg,19.0,mpg,20.0,28.0,Auto,SI,2.0,4,2.0L I4,"","","","","","","","",Audi,http://progress.audiusa.com/,E85_GSLN,Ethanol (E85),SUV,Flexible Fuel
+11358,45,9,377,"",29,Q5 Hybrid AWD,2015,"","","","","","",24.0,30.0,Auto,SI,2.4,4,2.4L I4,"","","","","","","","",Audi,http://progress.audiusa.com/,HYBR,Hybrid Electric,SUV,Hybrid Electric
+11397,11,5,355,"",27,Continental Flying Spur,2015,"","",9.0,mpg,15.0,mpg,12.0,20.0,Auto,SI,6,12,6.0L V12,"","","","","","","","",Bentley Motors,http://www.bentleymotors.com,E85_GSLN,Ethanol (E85),Sedan/Wagon,Flexible Fuel
+11398,11,5,355,"",27,Continental GT,2015,"","",9.0,mpg,15.0,mpg,12.0,21.0,Auto,SI,6,12,6.0L V12,"","","","","","","","",Bentley Motors,http://www.bentleymotors.com,E85_GSLN,Ethanol (E85),Sedan/Wagon,Flexible Fuel
+11399,11,5,355,"",27,Continental GTC,2015,"","",9.0,mpg,15.0,mpg,12.0,20.0,Auto,SI,6,12,6.0L V12,"","","","","","","","",Bentley Motors,http://www.bentleymotors.com,E85_GSLN,Ethanol (E85),Sedan/Wagon,Flexible Fuel
+11359,45,9,211,"",27,ActiveHybrid 3,2015,"","","","","","",25.0,33.0,Auto,SI,3.0,6,3.0L I6,"","","","","","","","",BMW,www.bmwusa.com,HYBR,Hybrid Electric,Sedan/Wagon,Hybrid Electric
+11360,45,9,211,"",27,ActiveHybrid 5,2015,"","","","","","",23.0,30.0,Auto,SI,3.0,6,3.0L I6,"","","","","","","","",BMW,www.bmwusa.com,HYBR,Hybrid Electric,Sedan/Wagon,Hybrid Electric
+11361,45,9,211,"",27,ActiveHybrid 7,2015,"","","","","","",22.0,30.0,Auto,SI,3.0,6,3.0L I6,"","","","","","","","",BMW,www.bmwusa.com,HYBR,Hybrid Electric,Sedan/Wagon,Hybrid Electric
+11344,41,1,211,"",27,i3,2015,"","",137.0,Mpge,111.0,Mpge,"","",Auto,"",125 kW,"","125 kW electric motor, 21 kWh battery","",21 kWh,"","","","","",81 mi all electric range,BMW,www.bmwusa.com,ELEC,Electric,Sedan/Wagon,Dedicated
+11331,57,9,211,"",27,i3 w/Range Extender,2015,"","",117.0,Mpge Gas + Electric,"",NULL,"","",Auto,"",0.6L,"","0.6L I2, 125kW electric motor","","","","","","","",72 mi est. all electric range,BMW,www.bmwusa.com,PHEV,Plug-in Hybrid Electric,Sedan/Wagon,Hybrid Electric
+11330,57,3,211,"",27,i8,2015,"","",76.0,Mpge Gas + Electric,"","","","",Auto,"",1.5,3,"1.5L I3, 96 kW electric drive","","","","","","","",14 mi est. all electric range,BMW,www.bmwusa.com,PHEV,Plug-in Hybrid Electric,Sedan/Wagon,Dual/Bi-Fueled
+11471,11,5,235,"",27,LaCrosse FWD/AWD,2015,"","",14.0,mpg,20.0,mpg,18.0,28.0,Auto,SI,3.6,6,3.6L V6,"","","","","","","","",Buick,http://www.buick.com,E85_GSLN,Ethanol (E85),Sedan/Wagon,Flexible Fuel
+11469,11,5,235,"",27,Regal FWD/AWD,2015,"","","","","","","","",Auto,SI,2.4,4,2.4L I4,"","","","","","","","",Buick,http://www.buick.com,E85_GSLN,Ethanol (E85),Sedan/Wagon,Flexible Fuel
+11470,11,5,235,"",27,Verano,2015,"","","","","","","","",Auto,SI,2.4,4,2.4L I4,"","","","","","","","",Buick,http://www.buick.com,E85_GSLN,Ethanol (E85),Sedan/Wagon,Flexible Fuel
+11400,11,5,231,"",27,ATS RWD/AWD,2015,"","","",mpg,"",mpg,"","",Auto,SI,3.6,6,3.6L V6,"","","","","","","","",Cadillac,http://www.cadillac.com,E85_GSLN,Ethanol (E85),Sedan/Wagon,Flexible Fuel
+11332,57,9,231,"",27,ELR,2015,"","",82.0,Mpge combined electricity,"",NULL,31.0,35.0,Auto,"",1.4L,"","1.4L I4, 111 kW electric motor","","","","","","","",37 mi est. all electric range,Cadillac,http://www.cadillac.com,PHEV,Plug-in Hybrid Electric,Sedan/Wagon,Hybrid Electric
+11426,11,5,215,"",27,Caprice Police Patrol Vehicle,2015,"","","",mpg,"","","","",Auto,SI,6.0,8,6.0L V8,"","","","","","","","",Chevrolet,http://www.chevrolet.com,E85_GSLN,Ethanol (E85),Sedan/Wagon,Flexible Fuel
+11421,11,5,215,"",29,Captiva,2015,"","",15.0,mpg,22.0,mpg,20.0,28.0,Auto,SI,2.4,4,2.4L I4,"","","","","","","","",Chevrolet,http://www.chevrolet.com,E85_GSLN,Ethanol (E85),SUV,Flexible Fuel
+11287,35,1,215,"",27,Cruze,2015,"","",27.0,mpg,46.0,mpg,"","",Auto,Diesel,2.0,4,2.0L I4 Diesel,"","","","","","","","",Chevrolet,http://www.chevrolet.com,BD,Biodiesel (B20),Sedan/Wagon,Dedicated
+11422,11,5,215,"",29,Equinox,2015,"","",15.0,mpg,22.0,mpg,22.0,23.0,Auto,SI,2.4,4,2.4L I4,"","","","","","","","",Chevrolet,http://www.chevrolet.com,E85_GSLN,Ethanol (E85),SUV,Flexible Fuel
+11423,11,5,215,"",29,Equinox,2015,"","","",mpg,"",mpg,"","",Auto,SI,3.6,6,3.6L V6,"","","","","","","","",Chevrolet,http://www.chevrolet.com,E85_GSLN,Ethanol (E85),SUV,Flexible Fuel
+11285,35,1,215,"",9,Express 2500/3500,2015,"","","",mpg,"",mpg,"","",Auto,Diesel,6.6L,8,6.6L V8 Diesel,"","","","","","","","",Chevrolet,http://www.chevrolet.com,BD,Biodiesel (B20),Van,Dedicated
+11304,3,1,215,"",9,Express 2500/3500,2015,"","","",mpg,"",mpg,"","",Auto,SI,6.0L,8,6.0L V8,"","","","","","","","",Chevrolet,http://www.chevrolet.com,CNG,CNG - Compressed Natural Gas,Van,Dedicated
+11419,11,5,215,"",9,Express 2500/3500,2015,"","",8.0,mpg,11.0,mpg,11.0,16.0,Auto,SI,6.0,8,6.0L V8,"","","","","","","","",Chevrolet,http://www.chevrolet.com,E85_GSLN,Ethanol (E85),Van,Flexible Fuel
+11286,35,1,215,"",17,Express 3500/4500,2015,"","","",mpg,"",mpg,"","",Auto,Diesel,6.6L,8,6.6l V8 Diesel,"","","","","","","","",Chevrolet,http://www.chevrolet.com,BD,Biodiesel (B20),Vocational/Cab Chassis,Dedicated
+11327,55,1,215,"",17,Express 3500/4500,2015,"","","",mpg,"",mpg,"","",Auto,SI,6.0L,8,6.0L V8,"","","","","","","","",Chevrolet,http://www.chevrolet.com,LPG,Propane,Vocational/Cab Chassis,Dedicated
+11305,3,1,215,"",17,Express 3500/4500,2015,"","","",mpg,"",mpg,"","",Auto,SI,6.0L,8,6.0L V8,"","","","","","","","",Chevrolet,http://www.chevrolet.com,CNG,CNG - Compressed Natural Gas,Vocational/Cab Chassis,Dedicated
+11097,37,3,215,"",27,Impala,2015,"","","",NULL,"",NULL,"","",Auto,"",3.6L,6,3.6L V6,"","","","","","","","",Chevrolet,http://www.chevrolet.com,CNG_GSLN,CNG - Bi-fuel,Sedan/Wagon,Dual/Bi-Fueled
+11424,11,5,215,"",27,Impala,2015,"","",14.0,mpg,20.0,19,29.0,"",Auto,SI,3.6,6,3.6L V6,"","","","","","","","",Chevrolet,http://www.chevrolet.com,E85_GSLN,Ethanol (E85),Sedan/Wagon,Flexible Fuel
+11303,37,3,215,"",27,Impala,2015,"","","",mpg,"",mpg,"","",Auto,SI,3.6,6,3.6L V6,"","","","","","","","",Chevrolet,http://www.chevrolet.com,CNG_GSLN,CNG - Bi-fuel,Sedan/Wagon,Dual/Bi-Fueled
+11425,11,5,215,"",27,Impala Limited Police,2015,"","",14.0,mpg,20.0,19,29.0,"",Auto,SI,3.6,6,3.6L V6,"","","","","","","","",Chevrolet,http://www.chevrolet.com,E85_GSLN,Ethanol (E85),Sedan/Wagon,Flexible Fuel
+11401,11,5,215,"",25,Silverado 1500 2WD/4WD,2015,"","",12.0,mpg,17.0,mpg,16.0,23.0,Auto,SI,5.3,8,5.3L V8,"","","","","","","","",Chevrolet,http://www.chevrolet.com,E85_GSLN,Ethanol (E85),Truck,Flexible Fuel
+11404,11,5,215,"",25,Silverado 1500 2WD/4WD,2015,"","",12.0,mpg,17.0,mpg,18.0,24.0,Auto,SI,4.3,6,4.3L V6,"","","","","","","","",Chevrolet,http://www.chevrolet.com,E85_GSLN,Ethanol (E85),Truck,Flexible Fuel
+11407,11,5,215,"",17,Silverado 1500 Cab-chassis 2WD/4WD,2015,"","",11.0,mpg,15.0,mpg,16.0,21.0,Auto,SI,4.3,6,4.3L V6,"","","","","","","","",Chevrolet,http://www.chevrolet.com,E85_GSLN,Ethanol (E85),Vocational/Cab Chassis,Flexible Fuel
+11409,11,5,215,"",17,Silverado 1500 Cab-chassis 2WD/4WD,2015,"","",11.0,mpg,15.0,mpg,15.0,20.0,Auto,SI,5.3,8,5.3L V8,"","","","","","","","",Chevrolet,http://www.chevrolet.com,E85_GSLN,Ethanol (E85),Vocational/Cab Chassis,Flexible Fuel
+11405,11,5,215,"",25,Silverado 1500 Special Services 2WD/4WD,2015,"","",12.0,mpg,17.0,mpg,16.0,23.0,Auto,SI,5.3,8,5.3L V8,"","","","","","","","",Chevrolet,http://www.chevrolet.com,E85_GSLN,Ethanol (E85),Truck,Flexible Fuel
+11410,11,5,215,"",25,Silverado 2500 2WD/4WD,2015,"","","",mpg,"",mpg,"","",Auto,SI,6.0,8,6.0L V8,"","","","","","","","",Chevrolet,http://www.chevrolet.com,E85_GSLN,Ethanol (E85),Truck,Flexible Fuel
+11283,35,1,215,"",25,Silverado 2500/3500 HD (2WD/4WD),2015,"","","",mpg,"",mpg,"","",Auto,Diesel,6.6L,8,6.6L V8 Diesel,"","","","","","","","",Chevrolet,http://www.chevrolet.com,BD,Biodiesel (B20),Truck,Dedicated
+11300,37,3,215,"",25,Silverado 2500/3500 HD (2WD/4WD),2015,"","","",mpg,"",mpg,"","",Auto,SI,6.0L,8,6.0L V8,"","","","","","","","",Chevrolet,http://www.chevrolet.com,CNG_GSLN,CNG - Bi-fuel,Truck,Dual/Bi-Fueled
+11411,11,5,215,"",25,Silverado 3500 2WD/4WD,2015,"","","",mpg,"",mpg,"","",Auto,SI,6.0,8,6.0L V8,"","","","","","","","",Chevrolet,http://www.chevrolet.com,E85_GSLN,Ethanol (E85),Truck,Flexible Fuel
+11284,35,1,215,"",17,Silverado 3500 HD (2WD/4WD),2015,"","","",mpg,"",mpg,"","",Auto,Diesel,6.6L,8,6.6L V8 Diesel,"","","","","","","","",Chevrolet,http://www.chevrolet.com,BD,Biodiesel (B20),Vocational/Cab Chassis,Dedicated
+11345,41,1,215,"",27,Spark,2015,"","",128.0,Mpge,109.0,Mpge,"","",Auto,e-motor,104 kW,"","104 kW electric motor, 20 kWh battery","",20 kWh,"","","","","",82 mi all electric range,Chevrolet,http://www.chevrolet.com,ELEC,Electric,Sedan/Wagon,Dedicated
+11414,11,5,215,"",29,Suburban 2WD/4WD,2015,"","",12.0,mpg,17.0,mpg,16.0,23.0,Auto,SI,5.3,8,5.3L V8,"","","","","","","","",Chevrolet,http://www.chevrolet.com,E85_GSLN,Ethanol (E85),SUV,Flexible Fuel
+11417,11,5,215,"",29,Tahoe 2WD/4WD,2015,"","",12.0,mpg,17.0,mpg,16.0,23.0,Auto,SI,5.3,8,5.3L V8,"","","","","","","","",Chevrolet,http://www.chevrolet.com,E85_GSLN,Ethanol (E85),SUV,Flexible Fuel
+11418,11,5,215,"",29,Tahoe Police 2WD/4WD,2015,"","",12.0,mpg,17.0,mpg,16.0,23.0,Auto,SI,5.3,8,5.3L V8,"","","","","","","","",Chevrolet,http://www.chevrolet.com,E85_GSLN,Ethanol (E85),SUV,Flexible Fuel
+11333,57,9,215,"",27,Volt,2015,"","",98.0,Mpge combined electricity,"",NULL,35.0,40.0,Auto,"",1.4L,"","1.4L I4, 111 kW electric motor","","","","","","","",38 mi est. all electric range,Chevrolet,http://www.chevrolet.com,PHEV,Plug-in Hybrid Electric,Sedan/Wagon,Hybrid Electric
+11430,11,5,223,"",27,200 ,2015,"","",17.0,mpg,28.0,mpg,23.0,36.0,Auto,SI,2.4,4,2.4L I4,"","","","","","","","",Chrysler,http://www.chrysler.com,E85_GSLN,Ethanol (E85),Sedan/Wagon,Flexible Fuel
+11429,11,5,223,"",27,200 FWD/AWD,2015,"","",14.0,mpg,23.0,mpg,19.0,32.0,Auto,SI,3.6,6,3.6L V6,"","","","","","","","",Chrysler,http://www.chrysler.com,E85_GSLN,Ethanol (E85),Sedan/Wagon,Flexible Fuel
+11472,11,5,223,"",27,300 RWD/AWD,2015,"","",14.0,mpg,23.0,mpg,19.0,31.0,Auto,SI,3.6,6,3.6L V6,"","","","","","","","",Chrysler,http://www.chrysler.com,E85_GSLN,Ethanol (E85),Sedan/Wagon,Flexible Fuel
+11431,11,5,223,"",27,Dart,2015,"","",18.0,mpg,25.0,mpg,24.0,34.0,Auto,SI,2.4,4,2.4L I4,"","","","","","","","",Chrysler,http://www.chrysler.com,E85_GSLN,Ethanol (E85),Sedan/Wagon,Flexible Fuel
+11432,11,5,223,"",9,Town & Country,2015,"","",12.0,mpg,18.0,mpg,17.0,25.0,Auto,SI,3.6,6,3.6L V6,"","","","","","","","",Chrysler,http://www.chrysler.com,E85_GSLN,Ethanol (E85),Van,Flexible Fuel
+11436,11,5,225,"",27,Charger Police Pursuit,2015,"","","",mpg,"",mpg,"","",Auto,SI,3.6,6,3.6L V6,"","","","","","","","",Dodge,http://www.dodge.com,E85_GSLN,Ethanol (E85),Sedan/Wagon,Flexible Fuel
+11473,11,5,225,"",27,Charger RWD/AWD,2015,"","",14.0,mpg,23.0,mpg,19.0,31.0,Auto,SI,3.6,6,3.6L V6,"","","","","","","","",Dodge,http://www.dodge.com,E85_GSLN,Ethanol (E85),Sedan/Wagon,Flexible Fuel
+11437,11,5,225,"",29,Durango Police Special Service Vehicle,2015,"","","",mpg,"",mpg,"","",Auto,SI,3.6,6,3.6L V6,"","","","","","","","",Dodge,http://www.dodge.com,E85_GSLN,Ethanol (E85),SUV,Flexible Fuel
+11434,11,5,225,"",29,Durango RWD/AWD,2015,"","",13.0,mpg,19.0,mpg,18.0,25.0,Auto,SI,3.6,6,3.6L V6,"","","","","","","","",Dodge,http://www.dodge.com,E85_GSLN,Ethanol (E85),SUV,Flexible Fuel
+11433,11,5,225,"",9,Grand Caravan,2015,"","",12.0,mpg,18.0,mpg,17.0,25.0,Auto,SI,3.6,6,3.6L V6,"","","","","","","","",Dodge,http://www.dodge.com,E85_GSLN,Ethanol (E85),Van,Flexible Fuel
+11435,11,5,225,"",29,Journey FWD,2015,"","",12.0,mpg,18.0,mpg,17.0,25.0,Auto,SI,3.6,6,3.6L V6,"","","","","","","","",Dodge,http://www.dodge.com,E85_GSLN,Ethanol (E85),SUV,Flexible Fuel
+11346,41,1,379,"",27,500e,2015,"","",122.0,Mpge,108.0,Mpge,"","",Auto,e-motor,83 kW,"","83kW electric motor, 24 kWh battery","",24 kWh,"","","","","",87 mi all electric range,Fiat,http://www.fiatusa.com/,ELEC,Electric,Sedan/Wagon,Dedicated
+11334,57,9,219,"",27,C-MAX Energi,2015,"","",88.0,Mpge Gas + Electric,"","",40.0,36.0,ECVT,"",2.0L,4,"2.0L I4, 68 kW electric motor","","","","","","","",20 mi est. all electric range,Ford,http://www.fordvehicles.com,PHEV,Plug-in Hybrid Electric,Sedan/Wagon,Hybrid Electric
+11362,45,9,219,"",27,C-MAX Hybrid,2015,"","","","","","",42.0,37.0,ECVT,SI,2.0,4,2.0L I4,"","","","","","","","",Ford,http://www.fordvehicles.com,HYBR,Hybrid Electric,Sedan/Wagon,Hybrid Electric
+11316,3,1,219,"",17,E-350/450,2015,"","","",mpg,"",mpg,"","",Auto,SI,6.8,10,6.8L V10 CNG/LPG Capable w/Prep Package,"","","","","","","","",Ford,http://www.fordvehicles.com,CNG,CNG - Compressed Natural Gas,Vocational/Cab Chassis,Dedicated
+11319,55,1,219,"",17,E-350/450,2015,"","","",mpg,"",mpg,"","",Auto,SI,6.8,10,6.8L V10 CNG/LPG Capable w/Prep Package,"","","","","","","","",Ford,http://www.fordvehicles.com,LPG,Propane,Vocational/Cab Chassis,Dedicated
+11320,55,1,219,"",17,E-350/450,2015,"","","",mpg,"",mpg,"","",Auto,SI,5.4,8,5.4L V8 CNG/LPG Capable w/Prep Package,"","","","","","","","",Ford,http://www.fordvehicles.com,LPG,Propane,Vocational/Cab Chassis,Dedicated
+11315,3,1,219,"",17,E-350/450,2015,"","","",mpg,"",mpg,"","",Auto,SI,5.4,8,5.4L V8 CNG/LPG Capable w/Prep Package,"","","","","","","","",Ford,http://www.fordvehicles.com,CNG,CNG - Compressed Natural Gas,Vocational/Cab Chassis,Dedicated
+11444,11,5,219,"",29,Expedition 2WD/4WD,2015,"","","",mpg,"",mpg,"","",Auto,SI,5.4,8,5.4L V8,"","","","","","","","",Ford,http://www.fordvehicles.com,E85_GSLN,Ethanol (E85),SUV,Flexible Fuel
+11443,11,5,219,"",29,Explorer FWD/AWD,2015,"","",13.0,mpg,18.0,mpg,17.0,21.0,Auto,SI,3.5,6,3.5L V6,"","","","","","","","",Ford,http://www.fordvehicles.com,E85_GSLN,Ethanol (E85),SUV,Flexible Fuel
+11445,11,5,219,"",25,F-150 2WD/4WD,2015,"","",11.0,mpg,16.0,mpg,15.0,22.0,Auto,SI,5.0,8,5.0L V8,"","","","","","","","",Ford,http://www.fordvehicles.com,E85_GSLN,Ethanol (E85),Truck,Flexible Fuel
+11446,11,5,219,"",25,F-150 2WD/4WD,2015,"","",13.0,mpg,18.0,mpg,18.0,25.0,Auto,SI,3.5,6,3.5L V6,"","","","","","","","",Ford,http://www.fordvehicles.com,E85_GSLN,Ethanol (E85),Truck,Flexible Fuel
+11347,41,1,219,"",27,Focus,2015,"","",110.0,Mpge,99.0,Mpge,"","",Auto,e-motor,107 kW,"","107 kW electric motor, 23 kWh battery","",23 kWh,"","","","","",76 mi all electric range,Ford,http://www.fordvehicles.com,ELEC,Electric,Sedan/Wagon,Dedicated
+11441,11,5,219,"",27,Focus,2015,"","","","","","","","",Auto,SI,2.0,4,"2.0L I4
+","","","","","","","","",Ford,http://www.fordvehicles.com,E85_GSLN,Ethanol (E85),Sedan/Wagon,Flexible Fuel
+11335,57,9,219,"",27,Fusion Energi,2015,"","",88.0,Mpge Gas + Electric,"","",40.0,36.0,ECVT,"",2.0L,4,"2.0L I4, 68 kW electric motor","","","","","","","",20 mi est. all electric range,Ford,http://www.fordvehicles.com,PHEV,Plug-in Hybrid Electric,Sedan/Wagon,Hybrid Electric
+11363,45,9,219,"",27,Fusion Hybrid,2015,"","","","","","",44.0,41.0,ECVT,SI,2.0,4,2.0L I4,"","","","","","","","",Ford,http://www.fordvehicles.com,HYBR,Hybrid Electric,Sedan/Wagon,Hybrid Electric
+11439,11,5,219,"",27,Police Interceptor,2015,"","","","","","","","",Auto,SI,3.7,6,3.7L V6,"","","","","","","","",Ford,http://www.fordvehicles.com,E85_GSLN,Ethanol (E85),Sedan/Wagon,Flexible Fuel
+11438,11,5,219,"",27,Police Interceptor,2015,"","","","","","","","",Auto,SI,3.5,6,3.5L V6,"","","","","","","","",Ford,http://www.fordvehicles.com,E85_GSLN,Ethanol (E85),Sedan/Wagon,Flexible Fuel
+11440,11,5,219,"",29,Police Interceptor Utility,2015,"","","","","","","","",Auto,SI,3.7,6,3.7L V6,"","","","","","","","",Ford,http://www.fordvehicles.com,E85_GSLN,Ethanol (E85),SUV,Flexible Fuel
+11449,11,5,219,"",25,Super Duty F-250/350,2015,"","","",mpg,"",mpg,"","",Auto,SI,6.2,8,6.2L V8,"","","","","","","","",Ford,http://www.fordvehicles.com,E85_GSLN,Ethanol (E85),Truck,Flexible Fuel
+11311,3,1,219,"",25,Super Duty F-250/350,2015,"","","",mpg,"",mpg,"","",Auto,SI,6.2,8,6.2L V8 CNG/LPG Capable w/Prep Package,"","","","","","","","",Ford,http://www.fordvehicles.com,CNG,CNG - Compressed Natural Gas,Truck,Dedicated
+11324,55,1,219,"",25,Super Duty F-250/350,2015,"","","",mpg,"",mpg,"","",Auto,SI,6.2,8,6.2L V8 CNG/LPG Capable w/Prep Package,"","","","","","","","",Ford,http://www.fordvehicles.com,LPG,Propane,Truck,Dedicated
+11290,35,1,219,"",25,Super Duty F-250/350/450,2015,"","","",mpg,"",mpg,"","",Auto,Diesel,6.7,8,6.7L V8 Diesel,"","","","","","","","",Ford,http://www.fordvehicles.com,BD,Biodiesel (B20),Truck,Dedicated
+11450,11,5,219,"",17,Super Duty F-350,2015,"","","",mpg,"",mpg,"","",Auto,SI,6.2,8,6.2L V8,"","","","","","","","",Ford,http://www.fordvehicles.com,E85_GSLN,Ethanol (E85),Vocational/Cab Chassis,Flexible Fuel
+11325,55,1,219,"",17,Super Duty F-350/450/550,2015,"","","",mpg,"",mpg,"","",Auto,SI,6.8,10,6.8L V10 CNG/LPG Capable w/Prep Package,"","","","","","","","",Ford,http://www.fordvehicles.com,LPG,Propane,Vocational/Cab Chassis,Dedicated
+11310,3,1,219,"",17,Super Duty F-350/450/550,2015,"","","",mpg,"",mpg,"","",Auto,SI,6.8,10,6.8L V10 CNG/LPG Capable w/Prep Package,"","","","","","","","",Ford,http://www.fordvehicles.com,CNG,CNG - Compressed Natural Gas,Vocational/Cab Chassis,Dedicated
+11326,55,1,219,"",17,Super Duty F-350/450/550,2015,"","","",mpg,"",mpg,"","",Auto,SI,6.2,8,6.2L V8 CNG/LPG Capable w/Prep Package,"","","","","","","","",Ford,http://www.fordvehicles.com,LPG,Propane,Vocational/Cab Chassis,Dedicated
+11309,3,1,219,"",17,Super Duty F-350/450/550,2015,"","","",mpg,"",mpg,"","",Auto,SI,6.2,8,6.2L V8 CNG/LPG Capable w/Prep Package,"","","","","","","","",Ford,http://www.fordvehicles.com,CNG,CNG - Compressed Natural Gas,Vocational/Cab Chassis,Dedicated
+11291,35,1,219,"",17,Super Duty F-450/550/650,2015,"","","",mpg,"",mpg,"","",Auto,Diesel,6.7,8,6.7L V8 Diesel,"","","","","","","","",Ford,http://www.fordvehicles.com,BD,Biodiesel (B20),Vocational/Cab Chassis,Dedicated
+11323,55,1,219,"",17,Super Duty F-650,2015,"","","",mpg,"",mpg,"","",Auto,SI,6.8,10,6.8L V10 CNG/LPG Capable w/Prep Package,"","","","","","","","",Ford,http://www.fordvehicles.com,LPG,Propane,Vocational/Cab Chassis,Dedicated
+11312,3,1,219,"",17,Super Duty F-650,2015,"","","",mpg,"",mpg,"","",Auto,SI,6.8,10,6.8L V10 CNG/LPG Capable w/Prep Package,"","","","","","","","",Ford,http://www.fordvehicles.com,CNG,CNG - Compressed Natural Gas,Vocational/Cab Chassis,Dedicated
+11442,11,5,219,"",27,Taurus FWD/AWD,2015,"","",13.0,mpg,21.0,mpg,19.0,29.0,Auto,SI,3.5,6,3.5L V6,"","","","","","","","",Ford,http://www.fordvehicles.com,E85_GSLN,Ethanol (E85),Sedan/Wagon,Flexible Fuel
+11288,35,1,219,"",9,Transit 150/250/350,2015,"","","",mpg,"",mpg,"","",Auto,Diesel,3.2,5,3.2L I5 Diesel,"","","","","","","","",Ford,http://www.fordvehicles.com,BD,Biodiesel (B20),Van,Dedicated
+11447,11,5,219,"",9,Transit 150/250/350,2015,"","",11.0,mpg,14.0,mpg,14.0,19.0,Auto,SI,3.7,6,3.7L V6,"","","","","","","","",Ford,http://www.fordvehicles.com,E85_GSLN,Ethanol (E85),Van,Flexible Fuel
+11289,35,1,219,"",17,Transit 250/350,2015,"","","",mpg,"",mpg,"","",Auto,Diesel,3.2,5,3.2L I5 Diesel,"","","","","","","","",Ford,http://www.fordvehicles.com,BD,Biodiesel (B20),Vocational/Cab Chassis,Dedicated
+11448,11,5,219,"",17,Transit 250/350,2015,"","","",mpg,"",mpg,"","",Auto,SI,3.7,6,3.7L V6,"","","","","","","","",Ford,http://www.fordvehicles.com,E85_GSLN,Ethanol (E85),Vocational/Cab Chassis,Flexible Fuel
+11322,55,1,219,"",9,Transit Connect,2015,"","","",mpg,"",mpg,"","",Auto,SI,2.5,4,2.5L I4 CNG/LPG Capable w/Prep Package,"","","","","","","","",Ford,http://www.fordvehicles.com,LPG,Propane,Van,Dedicated
+11313,3,1,219,"",9,Transit Connect,2015,"","","",mpg,"",mpg,"","",Auto,SI,2.5,4,2.5L I4 CNG/LPG Capable w/Prep Package,"","","","","","","","",Ford,http://www.fordvehicles.com,CNG,CNG - Compressed Natural Gas,Van,Dedicated
+11321,55,1,219,"",17,Transit T-150/250/350,2015,"","","",mpg,"",mpg,"","",Auto,SI,3.7,6,3.7l V6 CNG/LPG Capable w/Prep Package,"","","","","","","","",Ford,http://www.fordvehicles.com,LPG,Propane,Vocational/Cab Chassis,Dedicated
+11314,3,1,219,"",17,Transit T-150/250/350,2015,"","","",mpg,"",mpg,"","",Auto,SI,3.7,6,3.7l V6 CNG/LPG Capable w/Prep Package,"","","","","","","","",Ford,http://www.fordvehicles.com,CNG,CNG - Compressed Natural Gas,Vocational/Cab Chassis,Dedicated
+11306,3,1,213,"",9,Savana 2500/3500,2015,"","","",mpg,"",mpg,"","",Auto,SI,6.0L,8,6.0L V8,"","","","","","","","",GMC,http://www.gmc.com,CNG,CNG - Compressed Natural Gas,Van,Dedicated
+11420,11,5,213,"",9,Savana 2500/3500,2015,"","",8.0,mpg,11.0,mpg,11.0,16.0,Auto,SI,6.0,8,6.0L V8,"","","","","","","","",GMC,http://www.gmc.com,E85_GSLN,Ethanol (E85),Van,Flexible Fuel
+11294,35,1,213,"",9,Savana 2500/3500,2015,"","","",mpg,"",mpg,"","",Auto,Diesel,6.6L,8,6.6L V8 Diesel,"","","","","","","","",GMC,http://www.gmc.com,BD,Biodiesel (B20),Van,Dedicated
+11328,55,1,213,"",17,Savana 3500/4500,2015,"","","",mpg,"",mpg,"","",Auto,SI,6.0L,8,6.0L V8,"","","","","","","","",GMC,http://www.gmc.com,LPG,Propane,Vocational/Cab Chassis,Dedicated
+11307,3,1,213,"",17,Savana 3500/4500,2015,"","","",mpg,"",mpg,"","",Auto,SI,6.0L,8,6.0L V8,"","","","","","","","",GMC,http://www.gmc.com,CNG,CNG - Compressed Natural Gas,Vocational/Cab Chassis,Dedicated
+11295,35,1,213,"",17,Savana 3500/4500,2015,"","","",mpg,"",mpg,"","",Auto,Diesel,6.6L,8,6.6l V8 Diesel,"","","","","","","","",GMC,http://www.gmc.com,BD,Biodiesel (B20),Vocational/Cab Chassis,Dedicated
+11402,11,5,213,"",25,Sierra 1500 2WD/4WD,2015,"","",12.0,mpg,17.0,mpg,18.0,24.0,Auto,SI,4.3,6,4.3L V6,"","","","","","","","",GMC,http://www.gmc.com,E85_GSLN,Ethanol (E85),Truck,Flexible Fuel
+11403,11,5,213,"",25,Sierra 1500 2WD/4WD,2015,"","",11.0,mpg,15.0,mpg,16.0,23.0,Auto,SI,5.3,8,5.3L V8,"","","","","","","","",GMC,http://www.gmc.com,E85_GSLN,Ethanol (E85),Truck,Flexible Fuel
+11408,11,5,213,"",17,Sierra 1500 Cab-chassis 2WD/4WD,2015,"","",11.0,mpg,15.0,mpg,16.0,20.0,Auto,SI,5.3,8,5.3L V8,"","","","","","","","",GMC,http://www.gmc.com,E85_GSLN,Ethanol (E85),Vocational/Cab Chassis,Flexible Fuel
+11406,11,5,213,"",17,Sierra 1500 Cab-chassis 2WD/4WD,2015,"","",11.0,mpg,15.0,mpg,16.0,21.0,Auto,SI,4.3,6,4.3L V6,"","","","","","","","",GMC,http://www.gmc.com,E85_GSLN,Ethanol (E85),Vocational/Cab Chassis,Flexible Fuel
+11413,11,5,213,"",25,Sierra 2500 2WD/4WD,2015,"","","",mpg,"",mpg,"","",Auto,SI,6.0,8,6.0L V8,"","","","","","","","",GMC,http://www.gmc.com,E85_GSLN,Ethanol (E85),Truck,Flexible Fuel
+11301,37,3,213,"",25,Sierra 2500/3500 HD (2WD/4WD),2015,"","","",mpg,"",mpg,"","",Auto,SI,6.0L,8,6.0L V8,"","","","","","","","",GMC,http://www.gmc.com,CNG_GSLN,CNG - Bi-fuel,Truck,Dual/Bi-Fueled
+11292,35,1,213,"",25,Sierra 2500/3500 HD (2WD/4WD),2015,"","","",mpg,"",mpg,"","",Auto,Diesel,6.6L,8,6.6L V8 Diesel,"","","","","","","","",GMC,http://www.gmc.com,BD,Biodiesel (B20),Truck,Dedicated
+11412,11,5,213,"",25,Sierra 3500 2WD/4WD,2015,"","","",mpg,"",mpg,"","",Auto,SI,6.0,8,6.0L V8,"","","","","","","","",GMC,http://www.gmc.com,E85_GSLN,Ethanol (E85),Truck,Flexible Fuel
+11293,35,1,213,"",17,Sierra 3500 HD (2WD/4WD),2015,"","","",mpg,"",mpg,"","",Auto,Diesel,6.6L,8,6.6L V8 Diesel,"","","","","","","","",GMC,http://www.gmc.com,BD,Biodiesel (B20),Vocational/Cab Chassis,Dedicated
+11427,11,5,213,"",29,Terrain,2015,"","",15.0,mpg,22.0,mpg,22.0,23.0,Auto,SI,2.4,4,2.4L I4,"","","","","","","","",GMC,http://www.gmc.com,E85_GSLN,Ethanol (E85),SUV,Flexible Fuel
+11428,11,5,213,"",29,Terrain,2015,"","","",mpg,"",mpg,"","",Auto,SI,3.6,6,3.6L V6,"","","","","","","","",GMC,http://www.gmc.com,E85_GSLN,Ethanol (E85),SUV,Flexible Fuel
+11415,11,5,213,"",29,Yukon 2WD/4WD,2015,"","",12.0,mpg,17.0,mpg,16.0,23.0,Auto,SI,5.3,8,5.3L V8,"","","","","","","","",GMC,http://www.gmc.com,E85_GSLN,Ethanol (E85),SUV,Flexible Fuel
+11416,11,5,213,"",29,Yukon XL 2WD/4WD,2015,"","",12.0,mpg,17.0,mpg,16.0,23.0,Auto,SI,5.3,8,5.3L V8,"","","","","","","","",GMC,http://www.gmc.com,E85_GSLN,Ethanol (E85),SUV,Flexible Fuel
+11365,45,9,209,"",27,Accord Hybrid,2015,"","","","","","",50.0,45.0,ECVT,SI,2.0,4,2.0L I4,"","","","","","","","",Honda,http://automobiles.honda.com,HYBR,Hybrid Electric,Sedan/Wagon,Hybrid Electric
+11336,57,9,209,"",27,Accord Plug-in Hybrid,2015,"","",115.0,Mpge Gas + Electric,"","",47.0,46.0,ECVT,"",2.0L,4,2.0L I4,"","","","","","","",20 mi est. all electric range,Honda,http://automobiles.honda.com,PHEV,Plug-in Hybrid Electric,Sedan/Wagon,Hybrid Electric
+11308,3,1,209,"",27,Civic,2015,"","",27.0,mpg,38.0,mpg,"","",Auto,SI,1.8,4,1.8L I4,"","","","","","","","",Honda,http://automobiles.honda.com,CNG,CNG - Compressed Natural Gas,Sedan/Wagon,Dedicated
+11366,45,9,209,"",27,Civic Hybrid,2015,"","","","","","",44.0,47.0,ECVT,SI,1.5,4,1.5L I4,"","","","","","","","",Honda,http://automobiles.honda.com,HYBR,Hybrid Electric,Sedan/Wagon,Hybrid Electric
+11367,45,9,209,"",27,CR-Z,2015,"","","","","","",36.0,39.0,Auto,SI,1.5,4,1.5L I4,"","","","","","","","",Honda,http://automobiles.honda.com,HYBR,Hybrid Electric,Sedan/Wagon,Hybrid Electric
+11368,45,9,351,"",27,Sonota,2015,"","","","","","",36.0,40.0,Auto,SI,2.4,4,2.4L I4,"","","","","","","","",Hyundai,http://www.hyundaiusa.com/,HYBR,Hybrid Electric,Sedan/Wagon,Hybrid Electric
+11117,9,7,351,"",29,Tucson Fuel Cell Vehicle,2015,"","","",NULL,"",NULL,"","","","",100,"",100 kW PEM Fuel Cell,"","","","","","","","",Hyundai,http://www.hyundaiusa.com/,H2,Hydrogen Fuel Cell,SUV,Fuel Cell
+11380,45,9,359,"",27,Q50 Hybrid FWD/AWD,2015,"","","","","","",29.0,36.0,Auto,SI,3.5,6,3.5L V6,"","","","","","","","",Infiniti,http://www.infinitiusa.com,HYBR,Hybrid Electric,Sedan/Wagon,Hybrid Electric
+11381,45,9,359,"",27,Q50 Hybrid S FWD/AWD,2015,"","","","",26.0,28,29.0,36.0,Auto,SI,3.5,6,3.5L V6,"","","","","","","","",Infiniti,http://www.infinitiusa.com,HYBR,Hybrid Electric,Sedan/Wagon,Hybrid Electric
+11382,45,9,359,"",27,Q70 Hybrid,2015,"","","","","","",29.0,34.0,Auto,SI,3.5,6,3.5L V6,"","","","","","","","",Infiniti,http://www.infinitiusa.com,HYBR,Hybrid Electric,Sedan/Wagon,Hybrid Electric
+11383,45,9,359,"",29,QX60 Hybrid,2015,"","","","","","",26.0,28.0,Auto,SI,2.5,4,2.5L I4,"","","","","","","","",Infiniti,http://www.infinitiusa.com,HYBR,Hybrid Electric,SUV,Hybrid Electric
+11455,11,5,385,"",27,XF FFV,2015,"","",11.0,mpg,17.0,mpg,15.0,23.0,Auto,SI,5.0,8,5.0L V8,"","","","","","","","",Jaguar,http://www.jaguarusa.com/index.html,E85_GSLN,Ethanol (E85),Sedan/Wagon,Flexible Fuel
+11453,11,5,385,"",27,XJ FFV,2015,"","",11.0,mpg,17.0,mpg,15.0,23.0,Auto,SI,5.0,8,5.0L V8,"","","","","","","","",Jaguar,http://www.jaguarusa.com/index.html,E85_GSLN,Ethanol (E85),Sedan/Wagon,Flexible Fuel
+11451,11,5,385,"",27,XJ FFV,2015,"","",12.0,mpg,19.0,mpg,18.0,27.0,Auto,SI,3.0,6,3.0L V6,"","","","","","","","",Jaguar,http://www.jaguarusa.com/index.html,E85_GSLN,Ethanol (E85),Sedan/Wagon,Flexible Fuel
+11454,11,5,385,"",27,XJL FFV,2015,"","",11.0,mpg,17.0,mpg,15.0,23.0,Auto,SI,5.0,8,5.0L V8,"","","","","","","","",Jaguar,http://www.jaguarusa.com/index.html,E85_GSLN,Ethanol (E85),Sedan/Wagon,Flexible Fuel
+11452,11,5,385,"",27,XJL FFV,2015,"","",111.0,mpg,19.0,mpg,17.0,27.0,Auto,SI,3.0,6,3.0L V6,"","","","","","","","",Jaguar,http://www.jaguarusa.com/index.html,E85_GSLN,Ethanol (E85),Sedan/Wagon,Flexible Fuel
+11459,11,5,275,"",29,Cherokee FWD/4WD,2015,"","",15.0,mpg,23.0,mpg,22.0,31.0,Auto,SI,2.4,4,2.4L I4,"","","","","","","","",Jeep,https://www.fleet.chrysler.com/fleetcda/fleetusa,E85_GSLN,Ethanol (E85),SUV,Flexible Fuel
+11296,35,1,275,"",29,Grand Cherokee 2WD/4WD,2015,"","",22.0,mpg,30.0,mpg,"","",Auto,Diesel,3.0,6,3.0L V6 Diesel,"","","","","","","","",Jeep,https://www.fleet.chrysler.com/fleetcda/fleetusa,BD,Biodiesel (B20),SUV,Dedicated
+11460,11,5,275,"",29,Grand Cherokee 2WD/4WD,2015,"","",14.0,mpg,19.0,mpg,17.0,25.0,Auto,SI,3.6,6,3.6L V6,"","","","","","","","",Jeep,https://www.fleet.chrysler.com/fleetcda/fleetusa,E85_GSLN,Ethanol (E85),SUV,Flexible Fuel
+11369,45,9,361,"",27,Optima,2015,"","","","","","",36.0,40.0,Auto,SI,2.4,4,2.4L I4,"","","","","","","","",Kia,http://www.kia.com,HYBR,Hybrid Electric,Sedan/Wagon,Hybrid Electric
+11579,45,1,361,"",27,Optima,2015,"","",36.0,mpg,40.0,mpg,"","",Auto,SI,2.4L,4,2.4L I4,"","","","","","","","",Kia,http://www.kia.com,HYBR,Hybrid Electric,Sedan/Wagon,Dedicated
+11349,41,1,361,"",27,Soul,2015,"","",120.0,Mpge,92.0,Mpge,"","",Auto,e-motor,50 kW,"","50 kW electric motor, 16.4 kWh battery","",16.4 kWh,"","","","","",93 mi all electric range,Kia,http://www.kia.com,ELEC,Electric,Sedan/Wagon,Dedicated
+11456,11,5,387,"",29,Range Rover,2015,"","",9.0,mpg,14.0,mpg,14.0,19.0,Auto,SI,5.0,8,5.0L V8,"","","","","","","","",Land Rover,http://www.landrover.com/us/en/lr/,E85_GSLN,Ethanol (E85),SUV,Flexible Fuel
+11457,11,5,387,"",29,Range Rover L,2015,"","",9.0,mpg,14.0,mpg,14.0,19.0,Auto,SI,5.0,8,5.0L V8,"","","","","","","","",Land Rover,http://www.landrover.com/us/en/lr/,E85_GSLN,Ethanol (E85),SUV,Flexible Fuel
+11458,11,5,387,"",29,Range Rover Sport,2015,"","",9.0,mpg,14.0,mpg,14.0,19.0,Auto,SI,5.0,8,5.0L V8,"","","","","","","","",Land Rover,http://www.landrover.com/us/en/lr/,E85_GSLN,Ethanol (E85),SUV,Flexible Fuel
+11371,45,9,243,"",27,300h,2015,"","","","","","",40.0,39.0,Auto,SI,2.5,4,2.5L I4,"","","","","","","","",Lexus,"",HYBR,Hybrid Electric,Sedan/Wagon,Hybrid Electric
+11370,45,9,243,"",27,CT 200h,2015,"","","","","","",43.0,40.0,ECVT,SI,1.8,4,1.8L I4,"","","","","","","","",Lexus,"",HYBR,Hybrid Electric,Sedan/Wagon,Hybrid Electric
+11373,45,9,243,"",27,GS 450h,2015,"","","","","","",29.0,34.0,Auto,SI,3.5,6,3.5L V6,"","","","","","","","",Lexus,"",HYBR,Hybrid Electric,Sedan/Wagon,Hybrid Electric
+11374,45,9,243,"",27,GS 450h F Sport,2015,"","","","","","","","",Auto,SI,3.5,6,3.5L V6,"","","","","","","","",Lexus,"",HYBR,Hybrid Electric,Sedan/Wagon,Hybrid Electric
+11372,45,9,243,"",27,LS 600h L,2015,"","","","","","",19.0,23.0,Auto,SI,5.0,8,5.0L V8,"","","","","","","","",Lexus,"",HYBR,Hybrid Electric,Sedan/Wagon,Hybrid Electric
+11376,45,9,243,"",27,NX 300h,2015,"","","","","","",35.0,31.0,Auto,SI,2.5,4,2.5L I4,"","","","","","","","",Lexus,"",HYBR,Hybrid Electric,Sedan/Wagon,Hybrid Electric
+11375,45,9,243,"",29,RX 450h,2015,"","","","","","",32.0,28.0,Auto,SI,3.5,6,3.5L V6,"","","","","","","","",Lexus,"",HYBR,Hybrid Electric,SUV,Hybrid Electric
+11364,45,9,227,"",27,MKZ Hybrid,2015,"","","","","","",41.0,39.0,ECVT,SI,2.0,4,2.0L I4,"","","","","","","","",Lincoln,http://www.lincoln.com,HYBR,Hybrid Electric,Sedan/Wagon,Hybrid Electric
+11337,57,9,389,"",27,P1,2015,"","","",NULL,"",NULL,16.0,20.0,Auto,SI,3.8L,8,"3.8L V8, 132 kW electric motor","","","","","","","","",McLaren,http://www.mclaren.com/,PHEV,Plug-in Hybrid Electric,Sedan/Wagon,Hybrid Electric
+11350,41,1,239,"",27,B-Class Electric,2015,"","",85.0,Mpge,83.0,Mpge,"","",Auto,e-motor,132 kW,"","132 kW electric motor, 28 kWh battery","",28 kWh,"","","","","",87 mi all electric range,Mercedes-Benz,http://www.mbusa.com/mercedes/,ELEC,Electric,Sedan/Wagon,Dedicated
+11317,9,1,239,"",27,B-Class F-Cell,2015,"","","",Mpge,"",Mpge,"","",Auto,FC,"","",100 kW PEM fuel cell,"","","","","","","","",Mercedes-Benz,http://www.mbusa.com/mercedes/,H2,Hydrogen Fuel Cell,Sedan/Wagon,Dedicated
+11474,11,5,239,"",27,E300,2015,"","",14.0,mpg,20.0,mpg,20.0,29.0,Auto,SI,3.5,6,3.5L V6,"","","","","","","","",Mercedes-Benz,http://www.mbusa.com/mercedes/,E85_GSLN,Ethanol (E85),Sedan/Wagon,Flexible Fuel
+11475,11,5,239,"",27,E300 4matic,2015,"","",14.0,mpg,20.0,mpg,20.0,29.0,Auto,SI,3.5,6,3.5L V6,"","","","","","","","",Mercedes-Benz,http://www.mbusa.com/mercedes/,E85_GSLN,Ethanol (E85),Sedan/Wagon,Flexible Fuel
+11377,45,9,239,"",27,E400 Hybrid,2015,"","","","","","",24.0,30.0,Auto,SI,3.5,6,3.5L V6,"","","","","","","","",Mercedes-Benz,http://www.mbusa.com/mercedes/,HYBR,Hybrid Electric,Sedan/Wagon,Hybrid Electric
+11461,11,5,239,"",29,GLA 250 4Matic,2015,"","",17.0,mpg,24.0,mpg,24.0,32.0,Auto,SI,2.04,"",2.0L I4,"","","","","","","","",Mercedes-Benz,http://www.mbusa.com/mercedes/,E85_GSLN,Ethanol (E85),SUV,Flexible Fuel
+11462,11,5,239,"",29,ML 350 4Matic,2015,"","",13.0,mpg,17.0,mpg,17.0,22.0,Auto,SI,3.5,6,"3.5L V6
+","","","","","","","","",Mercedes-Benz,http://www.mbusa.com/mercedes/,E85_GSLN,Ethanol (E85),SUV,Flexible Fuel
+11340,57,9,239,"",27,S550 Plug-in Hybrid,2015,"","","",NULL,"",NULL,"","",Auto,"",3.0,6,3.0L V6,"","","","","","","",20 mi est. all electric range,Mercedes-Benz,http://www.mbusa.com/mercedes/,PHEV,Plug-in Hybrid Electric,Sedan/Wagon,Hybrid Electric
+11351,41,1,263,"",27,i-MiEV,2015,"","",126.0,Mpge,99.0,Mpge,"","",Auto,e-motor,49 kW,"","49 kW electric motor, 16 kWh battery","",16 kWh,"","","","","",62 mi all electric range,Mitsubishi,http://www.mitsubishicars.com/MMNA/jsp/find.do?loc=en-us,ELEC,Electric,Sedan/Wagon,Dedicated
+11463,11,5,217,"",29,Armada 2WD/4WD,2015,"","",9.0,mpg,13.0,mpg,12.0,19.0,Auto,SI,5.6,8,"5.6L V8
+","","","","","","","","",Nissan,http://www.nissanusa.com,E85_GSLN,Ethanol (E85),SUV,Flexible Fuel
+11352,41,1,217,"",27,Leaf,2015,"","",126.0,Mpge,101.0,Mpge,"","",Auto,e-motor,80 kW,"","80 kW electric motor, 24 kWh battery","",24 kWh,"","","","","",84 mi all electric range,Nissan,http://www.nissanusa.com,ELEC,Electric,Sedan/Wagon,Dedicated
+11378,45,9,217,"",29,Pathfinder Hybrid 2WD/AWD,2015,"","","","","","",25.0,28.0,Auto,SI,2.5,4,2.5L I4,"","","","","","","","",Nissan,http://www.nissanusa.com,HYBR,Hybrid Electric,SUV,Hybrid Electric
+11464,11,5,217,"",25,Titan 2WD/4WD,2015,"","","",mpg,"",mpg,"","",Auto,SI,5.6,8,"5.6L V8
+","","","","","","","","",Nissan,http://www.nissanusa.com,E85_GSLN,Ethanol (E85),Truck,Flexible Fuel
+11357,57,9,391,"",27,918 Spyder,2015,"","",67.0,Mpge combined electricity,"",NULL,20.0,24.0,Auto,SI,4.6L,8,"4.6L V8, 95 kW electric motor front, 115 kW electric motor rear","","","","","","","",19 mi est. electric range,Porsche,http://www.porsche.com,PHEV,Plug-in Hybrid Electric,Sedan/Wagon,Hybrid Electric
+11342,57,9,391,"",29,Cayenne S E-Hybrid,2015,"","",47.0,Mpge combine electricity,"",NULL,21.0,24.0,Auto,SI,3.0L,6,"3.0L V6, 70 kW electric motor","","","","","","","",14 mi est. all electric range,Porsche,http://www.porsche.com,PHEV,Plug-in Hybrid Electric,SUV,Hybrid Electric
+11341,57,9,391,"",27,Panamera S E-Hybrid,2015,"",12,50.0,Mpge combined electricity,"",NULL,23.0,29.0,Auto,SI,3.0L,6,"3.0L V6, 70 kW electric motor","","","","","","","",12 mi est. all electric range,Porsche,http://www.porsche.com,PHEV,Plug-in Hybrid Electric,Sedan/Wagon,Hybrid Electric
+11297,35,1,349,"",29,1500 2WD/4WD,2015,"","",20.0,mpg,28.0,mpg,"","",Auto,Diesel,3.0,6,3.0L V6 Diesel,"","","","","","","","",Ram,http://www.ramtrucks.com,BD,Biodiesel (B20),SUV,Dedicated
+11465,11,5,349,"",25,1500 2WD/4WD,2015,"","",12.0,mpg,17.0,mpg,17.0,25.0,Auto,SI,3.6,6,"3.6L V6
+","","","","","","","","",Ram,http://www.ramtrucks.com,E85_GSLN,Ethanol (E85),Truck,Flexible Fuel
+11298,35,1,349,"",25,2500/3500 HD 2WD/4WD,2015,"","","","","","","","",Auto,Diesel,6.7,6,6.7L I6 Diesel,"","","","","","","","",Ram,http://www.ramtrucks.com,BD,Biodiesel (B20),Truck,Dedicated
+11302,37,3,349,"",25,2500 HD 2WD/4WD,2015,"","","","","","","","",Auto,SI,5.7,8,5.7L V8,"","","","","","","","",Ram,http://www.ramtrucks.com,CNG_GSLN,CNG - Bi-fuel,Truck,Dual/Bi-Fueled
+11299,35,1,349,"",17,3500 HD 2WD/4WD,2015,"","","","","","","","",Auto,Diesel,6.7,6,6.7L I6 Diesel,"","","","","","","","",Ram,http://www.ramtrucks.com,BD,Biodiesel (B20),Vocational/Cab Chassis,Dedicated
+11466,11,5,349,"",9,CV,2015,"","",13.0,mpg,18.0,mpg,18.0,26.0,Auto,SI,3.6,6,3.6L V6,"","","","","","","","",Ram,http://www.ramtrucks.com,E85_GSLN,Ethanol (E85),Van,Flexible Fuel
+11353,41,1,381,"",27,fortwo,2015,"","",122.0,Mpge,93.0,Mpge,"","",Auto,e-motor,55 kW,"","55 kW electric motor, 17.6 kWh battery","",17.6 kWh,"","","","","",68 mi all electric range,Smart,http://www.smartusa.com/,ELEC,Electric,Sedan/Wagon,Dedicated
+11379,45,9,383,"",29,XV Crosstrek,2015,"","","","","","",30.0,34.0,ECVT,SI,2.5,4,2.5L H4,"","","","","","","","",Subaru,http://www.subaru.com/,HYBR,Hybrid Electric,SUV,Hybrid Electric
+11354,41,1,237,"",27,Model S,2015,"","",94.0,Mpge,97.0,Mpge,"","",Auto,e-motor,300 kW,"","300 kW electric motor, 60 kWh battery","",60 kWh,"","","","","",208 mi all electric range,Tesla,http://www.teslamotors.com/design/gallery-body.php,ELEC,Electric,Sedan/Wagon,Dedicated
+11384,45,9,221,"",27,Avalon,2015,"","","","","","",40.0,39.0,ECVT,SI,2.5,4,2.5L I4,"","","","","","","","",Toyota,http://www.toyota.com,HYBR,Hybrid Electric,Sedan/Wagon,Hybrid Electric
+11385,45,9,221,"",27,Camry,2015,"","","","","","",43.0,39.0,ECVT,SI,2.5,4,2.5L I4,"","","","","","","","",Toyota,http://www.toyota.com,HYBR,Hybrid Electric,Sedan/Wagon,Hybrid Electric
+11386,45,9,221,"",29,Highlander,2015,"","","","","","",27.0,28.0,ECVT,SI,3.5,5,3.5L V6,"","","","","","","","",Toyota,http://www.toyota.com,HYBR,Hybrid Electric,SUV,Hybrid Electric
+11318,9,1,221,"",27,Mirai,2015,"",300,"",Mpge,"",Mpge,"","",Auto,FC,"","",100 kW PEM fuel cell,"","","","","","","","",Toyota,http://www.toyota.com,H2,Hydrogen Fuel Cell,Sedan/Wagon,Dedicated
+11388,45,9,221,"",27,Prius ,2015,"","","","","","",51.0,48.0,ECVT,SI,1.8,4,1.8L I4,"","","","","","","","",Toyota,http://www.toyota.com,HYBR,Hybrid Electric,Sedan/Wagon,Hybrid Electric
+11387,45,9,221,"",27,Prius c,2015,"","","","","","",53.0,46.0,ECVT,SI,1.5,4,1.5L I4,"","","","","","","","",Toyota,http://www.toyota.com,HYBR,Hybrid Electric,Sedan/Wagon,Hybrid Electric
+11343,57,9,221,"",27,Prius Plug-in,2015,"","",95.0,Mpge Gas + Electric,"","",51.0,49.0,ECVT,SI,1.8L,4,"1.8L I4, 38 kW electric motor","","","","","","","",11 mi est.all electric range,Toyota,http://www.toyota.com,PHEV,Plug-in Hybrid Electric,Sedan/Wagon,Hybrid Electric
+11389,45,9,221,"",27,Prius v,2015,"","","","","","",44.0,40.0,ECVT,SI,1.8,4,1.8L I4,"","","","","","","","",Toyota,http://www.toyota.com,HYBR,Hybrid Electric,Sedan/Wagon,Hybrid Electric
+11468,11,5,221,"",29,Sequoia 4WD,2015,"","",9.0,mpg,13.0,mpg,13.0,17.0,Auto,SI,5.7,8,"5.7L V8
+","","","","","","","","",Toyota,http://www.toyota.com,E85_GSLN,Ethanol (E85),SUV,Flexible Fuel
+11467,11,5,221,"",25,Tundra 4WD,2015,"","",9.0,mpg,12.0,mpg,13.0,17.0,Auto,SI,5.7,8,"5.7L V8
+","","","","","","","","",Toyota,http://www.toyota.com,E85_GSLN,Ethanol (E85),Truck,Flexible Fuel
+11356,41,1,347,"",27,e-Golf,2015,"","","",Mpge,"",Mpge,"","",Auto,e-motor,85 kW,"","85 kW electric motor, 24.2 kWh battery","",24.2 kWh,"","","","","",85 mi est. all electric range,Volkswagen,http://www.vw.com,ELEC,Electric,Sedan/Wagon,Dedicated
+11390,45,9,347,"",27,Jetta Hybrid,2015,"","","","","","",42.0,48.0,Auto,SI,1.4,4,1.4L I4,"","","","","","","","",Volkswagen,http://www.vw.com,HYBR,Hybrid Electric,Sedan/Wagon,Hybrid Electric
+11391,45,9,347,"",29,Touareg Hybrid,2015,"","","","","","",20.0,24.0,Auto,SI,3.0,6,3.0L V6,"","","","","","","","",Volkswagen,http://www.vw.com,HYBR,Hybrid Electric,SUV,Hybrid Electric
+10773,ACMD-Xpert,Autocar,Allison,"","","",[10013],LNG - Liquified Natural Gas|CNG - Compressed Natural Gas,Vocational/Cab Chassis,""
+10774,ACTT-Xspotter,Autocar,Allison,"","","",[10013],LNG - Liquified Natural Gas|CNG - Compressed Natural Gas,Tractor,Automatic
+10670,E3-Hybrid Drive,Autocar,Allison,"","","","[10301, 10013, 10057]",Hybrid - Diesel,Refuse,Automatic
+623,All American Rear Engine,Blue Bird Corp.,Allison,84,"","",[10013],CNG - Compressed Natural Gas,School Bus,""
+10662,Micro Bird G5,Blue Bird Corp.,Allison,30,"","",[10180],Propane,School Bus,""
+356,Vision,Blue Bird Corp.,Allison,77,Blue Bird's Vision school bus is available in 48-77 passenger models and is fueled with propane.,"",[10180],Propane,School Bus,Automatic
+10785,C10 45ft Coach,BYD (Build Your Dream),BYD,60,"","",[10409],Electric,Transit Bus,""
+10783,C6 23ft Coach,BYD (Build Your Dream),BYD,22,"","",[10411],Electric,Transit Bus,""
+10784,C9 40ft Coach,BYD (Build Your Dream),BYD,51,"","",[10409],Electric,Transit Bus,""
+10768,K11 60ft Transit Bus,BYD (Build Your Dream),BYD,57,300 kW e-motor,"",[10409],Electric,Transit Bus,Automatic
+10781,K7 30ft Transit Bus,BYD (Build Your Dream),BYD,25,"","",[10414],Electric,Transit Bus,""
+10767,K9 40ft Transit Bus,BYD (Build Your Dream),BYD,44,Configurable with 150 or 200 kW e-motor,"",[10410],Electric,Transit Bus,""
+10782,K9S 35ft Transit Bus,BYD (Build Your Dream),BYD,35,"","",[10410],Electric,Transit Bus,""
+10779,Q1M,BYD (Build Your Dream),BYD,"","","",[10413],Electric,Truck,""
+10780,Step Van,BYD (Build Your Dream),BYD,"","","",[10413],Electric,Truck,""
+10776,T5,BYD (Build Your Dream),BYD,"","","",[10411],Electric,Vocational/Cab Chassis,""
+10777,T7,BYD (Build Your Dream),BYD,"","","",[10411],Electric,Vocational/Cab Chassis,""
+10778,T9,BYD (Build Your Dream),BYD,"","","",[10412],Electric,Truck,""
+692,HETT,Capacity Trucks,"","","","",[],Electric,Tractor,""
+10677,TJ5000/TJ7000,Capacity Trucks,Allison RDS3000,"","","","[10390, 10341]",Propane,Tractor,""
+693,TJ9000,Capacity Trucks,Allison RDS3000,"","","",[10013],LNG - Liquified Natural Gas|CNG - Compressed Natural Gas,Tractor,""
+694,TJ9000 LNG Terminal Tractor,Capacity Trucks,Allison RDS3000,1,LNG-powered terminal tractor.,"",[10013],CNG - Compressed Natural Gas|LNG - Liquified Natural Gas,Tractor,Automatic
+10678,ZETT,Capacity Trucks,"","",The ZETT is a zero emission terminal truck for hauling cargo.  It operates on a Hydrogen Fuel Cell.,"",[],Hydrogen Fuel Cell,Tractor,""
+349,Ottawa 4x2,Cargotec,Allison 3000 RDS,"","","",[10013],CNG - Compressed Natural Gas|LNG - Liquified Natural Gas,Tractor,Automatic
+385,CTS - Front Engine,Champion Bus Inc.,Allison,32,"","",[],CNG - Compressed Natural Gas,Shuttle Bus,Automatic
+10502,COBUS 3000 CNG,COBUS Industries LP,"","","With up to three exit doors on each side, the COBUS CNG bus is designed to transport the maximum number of riders over short distances, typically in an airport setting. The COBUS 3000 can transport up to 112 riders.","",[],CNG - Compressed Natural Gas,Transit Bus,""
+10786,CNG,Collins Bus Corp.,"","","","",[10341],CNG - Compressed Natural Gas,School Bus,""
+10280,NexBus Propane,Collins Bus Corp.,"",30,"","",[10340],Propane,School Bus,Automatic
+10563,COE2,Crane Carrier Company,"","","","",[10301],CNG - Compressed Natural Gas,Vocational/Cab Chassis,""
+10562,LET2,Crane Carrier Company,"","","","",[10013],CNG - Compressed Natural Gas,Vocational/Cab Chassis,""
+10876,3500/4500/5500,Cummins Westport,"","","","",[10446],Biodiesel (B20),Vocational/Cab Chassis,""
+375,Orion VII CNG LF,Daimler Buses North America,Allison B400R-ZF HP594,44,"The Orion VII CNG is a heavy-duty, low-floor transit bus.","",[10013],CNG - Compressed Natural Gas,Transit Bus,Automatic
+421,Orion VII Hybrid Low-Floor,Daimler Buses North America,"",44,"The Orion VII Hybrid is a series hybrid design available in 30-, 35-, and 40-ft models with roof-mounted power control and energy storage unit.","",[10051],Hybrid Electric,Transit Bus,""
+429,EcoSaver IV,DesignLine Corp.,Track Drive / Direct Drive,40,"Uses a small APU and can operate on battery-only power, with regenerative braking.","","[10100, 10053, 10032]",Hybrid Electric|Hybrid - CNG,Transit Bus,""
+10281,Eco-Smart 1,DesignLine Corp.,"",28,"Operates up to 120 miles on a single charge under high-density, stop-and-go, urban transit.","",[10387],Electric,Transit Bus,""
+10788,40 Foot CompositeEbus,Ebus,"","","","",[],Electric,Transit Bus,""
+10787,EBUS22,Ebus,"",22,"","",[],Electric,Transit Bus,""
+378,AXCESS,ElDorado National,"Allison, Voith, ZF",45,"","","[10013, 10415]",LNG - Liquified Natural Gas|CNG - Compressed Natural Gas,Transit Bus,Automatic
+377,E-Z Rider II,ElDorado National,"Allison, Voith, ZF",41,"","","[10013, 10415]",Hybrid - Diesel|LNG - Liquified Natural Gas|CNG - Compressed Natural Gas,Transit Bus,Automatic
+379,XHF,ElDorado National,"",47,"","","[10013, 10415]",CNG - Compressed Natural Gas|LNG - Liquified Natural Gas,Transit Bus,Automatic
+364,Broom Bear/Crosswind/Eagle/Pelican,Elgin Sweeper Company,Allison MD3560,"","","","[10402, 10401, 10013]",Propane|CNG - Compressed Natural Gas|LNG - Liquified Natural Gas,Vocational/Cab Chassis|Street Sweeper,Automatic
+231,Crosswind,Elgin Sweeper Company,Allison 2000,2,"Regenerative air-type street sweeper, 12-ft. wide sweep path, 8-cu.-yd. rear dump hopper. Fully dual control. SC8000 cab-over chassis or FL70 conventional chassis.  Available with a CNG Cummins BG230 engine.","",[],"",Street Sweeper,""
+363,Eagle,Elgin Sweeper Company,Allison 2000,"","Mechanical broom-type sweeper, 10-foot wide sweep path, 4.5-cu.-yd. hopper with variable height, side dump from ground level to 10-ft., 2-in. Fully dual control SC8000 cab-over chassis.  Available with a Ford 2.5I propane engine or a GM 3I Natural Gas engine.","",[],"",Street Sweeper,""
+973,Pelican,Elgin Sweeper Company,"","","Pelican is a three-wheel broom sweeper available with a CNG, LNG Cummins B5.9 engine.  Also available with a propane engine.","",[],"",Street Sweeper,""
+10879,AXESS,ENC,"Allison, Voith, ZF",45,"","","[10013, 10415]",CNG - Compressed Natural Gas|LNG - Liquified Natural Gas,Transit Bus,""
+10880,E-Z RIDER II,ENC,"Allison, Voith, ZF",41,"","","[10415, 10013]",Hybrid - Diesel|LNG - Liquified Natural Gas|CNG - Compressed Natural Gas,Transit Bus,""
+10881,XHF,ENC,"",47,"","","[10013, 10415]",LNG - Liquified Natural Gas|CNG - Compressed Natural Gas,Transit Bus,""
+10873,- Lion Bus Type C,First Priority GreenFleet,"","","","",[],Electric,School Bus,""
+772,Medium Duty Truck,First Priority GreenFleet,"","","","",[],Electric,Truck,""
+10874,- Trans Tech Type A,First Priority GreenFleet,"","","","",[],Electric,School Bus,""
+773,Walk-In Van,First Priority GreenFleet,"","","","",[],Electric,Van,""
+10797,"E350, E450",Ford Motor Co.,"","","","",[10341],Propane|CNG - Compressed Natural Gas,Vocational/Cab Chassis,""
+10795,"F350, F450, F550",Ford Motor Co.,"","","","",[10416],Ethanol (E85),Vocational/Cab Chassis,""
+10794,"F350, F450, F550, F650, F750",Ford Motor Co.,"","","","","[10341, 10416]",CNG - Compressed Natural Gas|Propane,Vocational/Cab Chassis,""
+10796,"Super Duty F250, F350",Ford Motor Co.,"","","","",[10416],Propane|Ethanol (E85)|CNG - Compressed Natural Gas,Truck,""
+10801,"Super Duty F250, F350, F450",Ford Motor Co.,"","","","",[10420],Biodiesel (B20),Truck,""
+10802,"Super Duty, F-450, F550, F650, F750",Ford Motor Co.,"","","","",[10420],Biodiesel (B20),Vocational/Cab Chassis,""
+10798,"Transit 250, 350",Ford Motor Co.,"","","","",[10418],CNG - Compressed Natural Gas|Propane|Ethanol (E85),Van,""
+10800,"Transit 250, 350",Ford Motor Co.,"","","","",[10421],Biodiesel (B20),Van|Vocational/Cab Chassis,""
+10799,Transit Connect,Ford Motor Co.,"","","","",[10419],CNG - Compressed Natural Gas|Propane,Van,""
+1112,FCB 30-foot; FCB 35-foot; FCB 40-foot,Foton America,Allison B300R; B400R,40,"The Foton FCB bus is available in 30-, 35-, or 40-ft CNG or diesel-electric models.","","[10045, 10013]",Hybrid Electric|CNG - Compressed Natural Gas,Transit Bus,""
+10340,114SD NG,Freightliner,"","","","",[10013],LNG - Liquified Natural Gas|CNG - Compressed Natural Gas,Vocational/Cab Chassis,""
+10789,Cascadia 113 NG,Freightliner,"Eaton, Fuller","","","",[10301],CNG - Compressed Natural Gas|LNG - Liquified Natural Gas,Tractor,""
+10790,M2 112 NG,Freightliner,Allison,"","","",[10013],CNG - Compressed Natural Gas|LNG - Liquified Natural Gas,Tractor,""
+10765,MT-45 G Chassis,Freightliner Custom Chassis Corp.,"","","","",[10220],CNG - Compressed Natural Gas|Propane,Van,""
+10792,MT-55 G Chassis,Freightliner Custom Chassis Corp.,"","","","",[10220],CNG - Compressed Natural Gas|Propane,Van,""
+10763,S2G Truck,Freightliner Custom Chassis Corp.,"","","","",[10406],Propane,Vocational/Cab Chassis,""
+10813,Express 2500/3500,General Motors,"","","","","[10423, 10422]",Biodiesel (B20),Van,""
+10804,Express 2500/3500 HD,General Motors,"","","","",[10220],Ethanol (E85),Van,""
+10814,Express 3500/4500 Cutaway,General Motors,"","","","","[10423, 10422]",Biodiesel (B20),Vocational/Cab Chassis,""
+10805,Express 3500/4500 HD,General Motors,"","","","",[10220],Ethanol (E85),Van,""
+10819,LCF 3500/4500,General Motors,"","","","",[10424],Biodiesel (B20),Vocational/Cab Chassis,""
+10818,LCF 3500HD,General Motors,"","","","",[10402],Biodiesel (B20),Vocational/Cab Chassis,""
+10817,LCF 3500HD ,General Motors,"","","","",[10402],Biodiesel (B20),Vocational/Cab Chassis,""
+10815,Savana 2500/3500,General Motors,"","","","","[10422, 10423]",Biodiesel (B20),Van,""
+10807,Savana 2500/3500 HD,General Motors,"","","","",[10220],Ethanol (E85),Van,""
+10816,Savana 3500/4500 Cutaway,General Motors,"","","","","[10422, 10423]",Biodiesel (B20),Vocational/Cab Chassis,""
+10808,Savana 3500/4500 HD,General Motors,"","","","",[10220],Ethanol (E85),Van,""
+10806,Sierra 2500/3500 HD,General Motors,"","","","",[10220],Ethanol (E85),Truck,""
+10811,"Sierra 2500/3500 HD, 2WD/4WD",General Motors,"","","","",[10422],Biodiesel (B20),Truck,""
+10812,Sierra 3500 HD Cab Chassis,General Motors,"","","","",[10422],Biodiesel (B20),Truck,""
+10809,Silverado 2500/3500 HD 2WD/4WD,General Motors,"","","","",[10422],Biodiesel (B20),Truck,""
+10810,"Silverado 3500 HD, Cab Chassis",General Motors,"","","","",[10422],Biodiesel (B20),Truck,""
+10803,Sliverado 2500/3500 HD,General Motors,"","","","",[10220],Ethanol (E85),Truck,""
+10602,Electric,GGT Electric,"","","The GGT all-electric three-seat chassis is available in dropside, dumpbox and box van models. It is powered by a battery using a proprietary blend of lithium ferrous phosphate and manganese dioxide. 40Kw, 60Kw, and 80Kw packages available. Maximum speed is 55 mph with a range of 80-200 miles.","",[],Electric,Vocational/Cab Chassis,""
+10820,"Standard, BRT, BRTPlus, Commuter",Gillig Corp.,"Voith, Allison, ZF","","","","[10013, 10425, 10426]",CNG - Compressed Natural Gas|Hybrid - Diesel,Transit Bus,""
+10821,Trolley,Gillig Corp.,"Voith, Allison, ZF","","","","[10425, 10426]",Hybrid - Diesel,Transit Bus,""
+653,Universal,Glaval Bus,"",14,Shuttle bus style vehicle. Special chassis specifications required for electric hybrid conversion.,"",[10049],Hybrid Electric,Shuttle Bus,""
+652,GCII/G-Force,Goshen Coach,"",33,May be converted to use CNG or propane.,"","[10341, 10220]",CNG - Compressed Natural Gas|Propane,Shuttle Bus,Automatic
+10667,G-Force,Goshen Coach,"",14-33,The G-Force Hybrid is built on a Ford F-450 chassis with a 5.4L gasoline engine and Azure parallel hybrid electric drive.  The engine can be converted to CNG or propane as alternate fuels.,"",[],"",Shuttle Bus,""
+10822,G1,Greenkraft,GM,"","","",[10220],CNG - Compressed Natural Gas|Propane,Truck,""
+10823,G2,Greenkraft,Allison,"","","","[10220, 10390]",Propane|CNG - Compressed Natural Gas,Truck,""
+10824,"Front Loader: Half/Pack, Half/Pack Freedom",Heil Environmental,"","","","",[10013],CNG - Compressed Natural Gas,Refuse,""
+10825,"Rear Loader: Power Track, DuraPack",Heil Environmental,"","","","",[10013],CNG - Compressed Natural Gas,Refuse,""
+10827,"Roll Off Hoists: DuraLift, KwikLift, LowLift",Heil Environmental,"","","","",[10013],CNG - Compressed Natural Gas,Refuse,""
+10826,"Side Loader: DuraPack, Rapid Rail, Multi Task, STARR System",Heil Environmental,"","","","",[10013],CNG - Compressed Natural Gas,Refuse,""
+10693,"195h Hybrid COE, 195h-DC Hybrid COE",Hino,Asin,"","","",[10427],Hybrid - Diesel,Vocational/Cab Chassis,""
+10766,CE Series,IC Bus,"Allison, Eaton","","","",[10406],Propane,School Bus,""
+10542,DuraStar Hybrid,International,"","",International DuraStar Hybrid is a diesel/electric hybrid that uses International's Hybrid Drive Unit and is approved for biodiesel use.,"",[10240],Hybrid Electric,Vocational/Cab Chassis,""
+10543,WorkStar CNG 7300/7400,International,"","",The International CNG WorkStar 7300/7400 features 300 HP and 860 lb-ft of torque. The CNG model required no emissions after-treatment and is certified to both the 2010 EPA and CARB emission requirements.,"",[10008],CNG - Compressed Natural Gas,Vocational/Cab Chassis,""
+10300,Gasoline Electric Hybrid,ISE,"","",ISE's gasoline electric hybrid bus uses a lithium-based energy storage system.,"",[],"",Transit Bus,""
+10828,"NPR, NPR-HD, NPR Crew, NPR-HD Crew",Isuzu,"","","","",[10220],Propane|CNG - Compressed Natural Gas,Vocational/Cab Chassis,""
+10831,"T440, T470",Kenworth,"Eaton, Allison","","","",[10013],LNG - Liquified Natural Gas|CNG - Compressed Natural Gas,Tractor|Vocational/Cab Chassis,""
+10830,T680,Kenworth,Eaton,"","","","[10013, 10301]",CNG - Compressed Natural Gas|LNG - Liquified Natural Gas,Tractor,""
+10829,"T880, W900S",Kenworth,"Eaton, Allison","","","","[10301, 10013]",LNG - Liquified Natural Gas|CNG - Compressed Natural Gas,Vocational/Cab Chassis,""
+10856,- Ford E 350/450,Lightning Hybrids,"","","","",[10436],Hybrid - Hydraulic,Vocational/Cab Chassis,""
+10857,- Ford F 350XT/450XT/550XT,Lightning Hybrids,"","","","",[10436],Hybrid - Hydraulic,Vocational/Cab Chassis,""
+10858,- Ford F-59 Super Duty,Lightning Hybrids,"","","","",[10436],Hybrid - Hydraulic,Vocational/Cab Chassis,""
+10859,- Ford Transit,Lightning Hybrids,"","","","","[10438, 10439]",Hybrid - Hydraulic,Vocational/Cab Chassis,""
+10860,- Ford Transit Cab Chassis,Lightning Hybrids,"","","","","[10441, 10421]",Hybrid - Hydraulic,Vocational/Cab Chassis,""
+10865,- Freightliner M2 106,Lightning Hybrids,"","","","","[10428, 10382]",Hybrid - Hydraulic,Vocational/Cab Chassis,""
+10864,- Freightliner MB 65,Lightning Hybrids,"","","","",[10382],Hybrid - Hydraulic,Transit Bus|Shuttle Bus,""
+10862,- Freightliner MT 45,Lightning Hybrids,"","","","",[10408],Hybrid - Hydraulic,Step Van,""
+10863,- Freightliner MT 55,Lightning Hybrids,"","","","",[10408],Hybrid - Hydraulic,Step Van,""
+10868,- General Motors 3500/4500/5500,Lightning Hybrids,"","","","","[10424, 10435]",Hybrid - Hydraulic,Vocational/Cab Chassis,""
+10861,- Mercedez-Benz Sprinter,Lightning Hybrids,"","","","",[10442],Hybrid - Hydraulic,Vocational/Cab Chassis,""
+10866,- Thomas Built SAF-T-LINER C2,Lightning Hybrids,"","","","",[10382],Hybrid - Hydraulic,School Bus,""
+10867,- Thomas Built SAF-T-LINER C2,Lightning Hybrids,"","","","","[10432, 10433]",Hybrid - Hydraulic,School Bus,""
+10833,"LR, TerraPro Cab Over",Mack Trucks,Allison,"","","",[10013],CNG - Compressed Natural Gas|LNG - Liquified Natural Gas,Refuse,""
+10832,Pinnical Day Cab,Mack Trucks,Eaton,"","","",[10301],CNG - Compressed Natural Gas,Tractor,""
+10676,"Front Loaders: Meridian, Atlantic, Pacific, Contendor",McNeilus,"Eaton, Allison","","","","[10013, 10301]",LNG - Liquified Natural Gas|CNG - Compressed Natural Gas,Refuse,""
+732,"Rear Loader: Standard, Heavy Duty, XC Extra Compaction,Tag Axle, Split Body, M2, M5, Metro-Pak",McNeilus,"Eaton, Allison","","","","[10301, 10013]",LNG - Liquified Natural Gas|CNG - Compressed Natural Gas,Refuse,""
+10675,"Side Loader: AutoReach, Manual/Automated, ZR",McNeilus,"Eaton, Allison","","","","[10013, 10301]",LNG - Liquified Natural Gas|CNG - Compressed Natural Gas,Refuse,""
+733,"Standard, Bridgemaster, Oshkosh S-Series, SMS Sliding Mixer",McNeilus,"Eaton, Allison","","","","[10013, 10301]",CNG - Compressed Natural Gas|LNG - Liquified Natural Gas,Vocational/Cab Chassis,""
+10504,Micro Bird G5,Micro Bird Inc.,"",Up to 25,The Micro Bird G5 is a dual rear wheel Type A shuttle bus capable of carrying up to 25 passengers. Available with propane fuel engine.,"",[],"",School Bus,""
+10503,Micro Bird MB-II,Micro Bird Inc.,"",Up to 25,The Micro Bird MB-II is a single rear wheel Type A shuttle bus that can carry up to 25 passengers. Propane fuel alternative is available.,"",[],"",School Bus,""
+10834,CNG Commuter Coach,Motor Coach Industries,Allison,"","","","[10013, 10301]",CNG - Compressed Natural Gas,Transit Bus,""
+405,D4500 CT Hybrid Commuter Coach,Motor Coach Industries,Allision,57,"","",[10428],Hybrid - Diesel,Transit Bus,Automatic
+440,CE300 Hybrid,Navistar,Allison 2000 or 3000 Series,72,"The HEV system relies on an electric motor and batteries to maximize efficient operation of the school bus.  The system includes a 25/80kw AC Induction motor mounted behind the transmission, known as a Post-Transmission Parallel Hybrid System.","",[],"",School Bus,Automatic
+433,HC300 Hybrid,Navistar,Eaton Ultrashift 6 speed,38,The IC Bus HC Series diesel-electric hybrid technology can result in up to a 90% reduction in particulate matter (when used in combination with a diesel particulate filter) and up to a 60% reduction in NOx emissions (when used in combination with MaxxForce DT diesel engine). Electronic regeneration recharges the battery and improves brake life.,"",[10046],Hybrid Electric,School Bus,Manual
+442,International WorkStar Hybrid 4x4,Navistar,Eaton Ultrashift 6 speed,5,Four-wheel drive diesel-electric hybrid commercial truck for utility applications including overhead utility bucket operations.,"",[],"",Truck,""
+10403,eStar,Navistar-Modec EV Alliance,"","","The Class 2-3 eStar all-electric truck has a top speed of 50 mph and 100 mile operating range, designed for urban pickup-and-delivery applications. A123 Systems is producing lithium ion battery packs for the vehicles, and full recharing through a Level 2 recharging system can be completed in 8 hours.","",[10160],Electric,Step Van,""
+10837,Xcelsior,New Flyer,"",43,"","",[],Electric,Transit Bus,""
+10835,Xcelsior,New Flyer,"Allison, Voith, ZF",62,"","",[10381],CNG - Compressed Natural Gas,Transit Bus,""
+10836,Xcelsior,New Flyer,"Allison, Voith, ZF",62,"","",[10426],Hybrid - Diesel,Transit Bus,""
+10838,Osprey,Nitehawk,"","","","",[10429],Propane,Street Sweeper|Truck,""
+10839,Raptor Edge,Nitehawk,"","","","",[10429],CNG - Compressed Natural Gas|Propane,Street Sweeper|Truck,""
+372,31LFW / 35LFW / 40LFW,North American Bus Industries,Allison B500 R-ZF HP604,40,"Available in 31-, 35-, and 40-foot models with a low-floor body","","[10041, 10013, 10047, 10381, 10042]",CNG - Compressed Natural Gas|Hybrid Electric,Transit Bus,Automatic
+373,40LFW,North American Bus Industries,Allison B500 R-ZF HP604,40,"40-foot, low-floor heavy-duty city transit bus with one or two passenger doors.","",[10014],LNG - Liquified Natural Gas|CNG - Compressed Natural Gas,Transit Bus,Automatic
+374,416,North American Bus Industries,Allison B500 R-ZF HP604,44,"The NABI 40-foot, standard-floor, heavy duty transit bus is available in CNG, LNG, or diesel electric hybrid models.","",[],"",Transit Bus,""
+952,42BRT,North American Bus Industries,"",43,"","","[10047, 10013, 10041, 10042, 10381]",CNG - Compressed Natural Gas|Hybrid Electric|LNG - Liquified Natural Gas,Transit Bus,""
+370,436,North American Bus Industries,Allison B500 R-ZF HP604,65,"60-foot, standard-floor, heavy-duty articulated transit bus, kneeling feature, wheelchair lift(s) and up to 3 doors.","",[],"",Transit Bus,""
+368,60BRT,North American Bus Industries,Allison B500 R-ZF HP604,43,"","","[10381, 10013, 10041]",CNG - Compressed Natural Gas|LNG - Liquified Natural Gas|Hybrid Electric,Transit Bus,Automatic
+369,60LFW,North American Bus Industries,Allison B500 R-ZF HP604,62,"60-foot, low-floor, heavy-duty articulated city transit bus with up to three passenger doors.","",[],"",Transit Bus,""
+357,American Heritage Streetcar AH-28,North American Bus Industries,Allison,28,The American Heritage Streetcar from Optima Bus Corporation is a fully enclosed coach that seats up to 28 passengers.,"",[],"",Transit Bus,""
+355,Blue Bird Ultra LF Series,North American Bus Industries,Allison LCT 200 Series,35,Low-floor commercial transit or shuttle bus available in 30-foot (with 157-inch wheelbase) and 35-foot (with 222-inch wheelbase).,"",[],"",Transit Bus,""
+10180,CompoBus,North American Bus Industries,"",47,"","","[10013, 10041, 10381]",CNG - Compressed Natural Gas|Hybrid Electric,Transit Bus,""
+404,Optima Opus ISE Series Hybrid Bus,North American Bus Industries,ISE Thundervolt,31,The Opus ISE Series Hybrid Bus is a low-floor hybrid bus in 30- & 35-foot models.,"",[],"",Transit Bus,""
+10360,LFS Artic HEV,Nova Bus,"Allison, BEA",62,"","","[10430, 10431]",Hybrid - Diesel,Transit Bus,""
+10872,LFSE,Nova Bus,"","","","",[10445],Electric,Transit Bus,""
+10380,LFS HEV,Nova Bus,"Allison, BEA",41,"","","[10382, 10381]",Hybrid - Diesel,Transit Bus,""
+10240,LFS Natural Gas,Nova Bus,"ZF, Allison, Voith",41,"","",[10013],CNG - Compressed Natural Gas,Transit Bus,""
+10840,Multiple,Orange EV,"","","","",[],Electric,Tractor,""
+10482,320,Peterbilt Motors,"Eaton, Allison","","","","[10301, 10013]",CNG - Compressed Natural Gas|LNG - Liquified Natural Gas,Vocational/Cab Chassis,""
+10404,337,Peterbilt Motors,"Eaton, Allison","","","",[10013],CNG - Compressed Natural Gas,Vocational/Cab Chassis|Tractor,""
+10665,348,Peterbilt Motors,"Eaton, Allison","","","",[10013],CNG - Compressed Natural Gas,Vocational/Cab Chassis|Tractor,""
+10686,365,Peterbilt Motors,"Eaton, Allison","","","","[10301, 10013]",LNG - Liquified Natural Gas|CNG - Compressed Natural Gas,Tractor|Vocational/Cab Chassis,""
+10842,567,Peterbilt Motors,"Eaton, Allison","","","",[10301],LNG - Liquified Natural Gas|CNG - Compressed Natural Gas,Tractor|Vocational/Cab Chassis,""
+10841,579,Peterbilt Motors,"Eaton, Allison","","","",[10301],CNG - Compressed Natural Gas|LNG - Liquified Natural Gas,Tractor,""
+10844,Flatbed,Phoenix Motorcars,"","","","",[],Electric,Vocational/Cab Chassis,""
+10843,Shuttle Bus,Phoenix Motorcars,"",18,"","",[],Electric,Shuttle Bus,""
+10845,Utility Vehicle,Phoenix Motorcars,"","","","",[],Electric,Vocational/Cab Chassis,""
+10669,Catalyst,Proterra,"",40,"","",[],Electric,Transit Bus,""
+10875,2500/3500 HD,RAM,"","","","",[10446],Biodiesel (B20),Truck,""
+10878,Promaster 2500/3500,RAM,"","","","",[10447],Biodiesel (B20),Vocational/Cab Chassis,""
+10877,Promaster 2500/3500,RAM,"","","","",[10447],Biodiesel (B20),Van,""
+443,A7000 CNG,Schwarze Industries,"",3,"Chassis-mounted, regenerative air sweeper.","",[],CNG - Compressed Natural Gas,Street Sweeper,""
+483,M6000SE,Schwarze Industries,"","",CNG-powered mechanical broom sweeper,"",[10013],CNG - Compressed Natural Gas,Street Sweeper,""
+348,Classic American Trolley,StarTrans ,Allison 2200 PTS,22-35,The StarTrans' Classic American Trolley is available with a five tank CNG option or various sized LPG capacity. The Classic American Trolley is a rubber-tired vehicle built on a shuttle bus chassis that is decorated to recall a bygone era. Specialty Vehicles is exclusive distributor.,"",[],"",Transit Bus,""
+1093,President,StarTrans ,Allison 2200 PTS,35,May be converted to use CNG or propane.,"",[],CNG - Compressed Natural Gas|Propane,Shuttle Bus,""
+422,Senator,StarTrans ,Torqshift 5-speed,17,May be converted to use CNG.,"","[10386, 10341]",CNG - Compressed Natural Gas,Shuttle Bus,Automatic
+10663,Minotour,Thomas Built Buses,"","","","",[10429],CNG - Compressed Natural Gas|Propane,School Bus,""
+10742,SAF-T-LINER C2,Thomas Built Buses,"","","","","[10433, 10013]",CNG - Compressed Natural Gas,School Bus,""
+10769,SAF-T-LINER C2,Thomas Built Buses,Allison,"","","",[10432],Propane,School Bus,""
+10140,SAF-T-LINER HDX,Thomas Built Buses,Allison,"","","",[10013],CNG - Compressed Natural Gas,School Bus,""
+10664,ETrans,Trans Tech,"",52,"","",[],Electric,School Bus,""
+649,Odyssey,Turtle Top,"",24,Available as Chevrolet G4500 or Ford E-450 chassis; may be converted to use CNG or propane.,"","[10341, 10028]",Propane|CNG - Compressed Natural Gas,Shuttle Bus,""
+648,Odyssey XL,Turtle Top,"",41,Available as a Ford F-550 chassis; may be converted to use CNG or propane.,"","[10028, 10341]",CNG - Compressed Natural Gas|Propane,Shuttle Bus,""
+650,Odyssey XLT,Turtle Top,"",50,Available as a Freightliner M2 106 chassis; may be converted to use CNG.,"",[10045],Hybrid Electric|CNG - Compressed Natural Gas,Shuttle Bus,""
+673,Terra Transport,Turtle Top,"",15,Available as a Chevrolet Express or GMC Savana 3500 chassis; may be converted to use CNG or propane.,"","[10220, 10028]",Propane|CNG - Compressed Natural Gas,Shuttle Bus,""
+674,Van Terra,Turtle Top,"",15,Turtle Top shuttle van is available on a Ford E350 chassis with a bi-fuel propane engine or dedicated CNG engine.,"","[10028, 10341]",Propane|CNG - Compressed Natural Gas,Shuttle Bus,""
+992,500x,TYMCO,Allison,"","","",[10434],CNG - Compressed Natural Gas,Street Sweeper|Truck,""
+351,600,TYMCO,"","","","",[10434],CNG - Compressed Natural Gas|Propane,Street Sweeper|Truck,""
+583,A300L Fuel Cel,Van Hool,Siemens Electric Propulsion/ZF Rear Axle,28,"","","[10033, 10037]",Hydrogen Fuel Cell,Transit Bus,""
+10869,VTRUX,Via Motors,"","","","",[10444],Plug-in Hybrid Electric,Van,""
+1052,Tyrano,Vision Motor Corp.,"","","A Class 8, zero-emission tractor that combines the superior acceleration of a battery-powered electric
+vehicle with the extended range of a hydrogen fuel cell vehicle","","[10393, 10046]",Hydrogen Fuel Cell,Tractor,""
+10200,ZETT Zero Emission Terminal Tractor,Vision Motor Corp.,"","",Developed in conjunction with Capacity Trucks,"",[10394],Hydrogen Fuel Cell,Tractor,""
+10847,VNL 300/670 Natural Gas,Volvo,Eaton,"","","",[10301],CNG - Compressed Natural Gas|LNG - Liquified Natural Gas,Tractor,""
+10846,VNM 200 Natural Gas,Volvo,Allison,"","","",[10013],LNG - Liquified Natural Gas|CNG - Compressed Natural Gas,Tractor,""
+10848,E-Gen,Workhorse Custom Chassis,"","","","",[],Electric,Vocational/Cab Chassis,""
+10849,- Chevrolet Express 2500/3500 HD,XL Hybrid,"","","","","[10435, 10220]",Hybrid Electric,Van,""
+10852,- Ford E 350/450,XL Hybrid,"","","","",[],Hybrid Electric,Vocational/Cab Chassis,""
+10854,- Ford F-59 Super Duty,XL Hybrid,"","","","",[10436],Hybrid Electric,Vocational/Cab Chassis,""
+10855,- Ford Transit,XL Hybrid,"","","","","[10438, 10439]",Hybrid Electric,Van,""
+10851,- General Motors 3500/4500 HD,XL Hybrid,"","","","","[10220, 10435]",Hybrid Electric,Vocational/Cab Chassis,""
+10850,- General Motors Savana 2500/3500 HD,XL Hybrid,"","","","","[10220, 10435]",Hybrid Electric,Van,""
+10853,- Isuzu Reach,XL Hybrid,"","","","",[10437],Hybrid Electric,Van,""
+10871,250/350 ,Zenith Motors,"","","","",[],Electric,Van,""
+10870,Shuttle Van,Zenith Motors,"","","","",[],Electric,Van,""
+10401,ZeroTruck,ZeroTruck,"","","","",[],Electric,Vocational/Cab Chassis,""

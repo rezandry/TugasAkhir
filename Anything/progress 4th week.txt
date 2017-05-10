@@ -1,0 +1,5 @@
+what i must progress tommorow :
+- KK : Dunno
+- KB : Presentation Next Week Ready Affectiva, mengenai pengenalan emotion
+- TA : Sampai Ekstraksi data, dimana sudah menjadi array RGB value, lalu sampai convert ke HSV 
+- Cerita Kuliah Tamu : 
